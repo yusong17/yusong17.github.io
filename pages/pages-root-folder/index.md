@@ -9,17 +9,17 @@ header:
   image_fullwidth: usa-7.jpg
 widget1:
   title: "New journey just begins"
-  url: 'https://yusong17.github.io/gener.github.io/members/'
+  url: 'https://yusong17.github.io/members/'
   image: cityu-303.jpg
   text: '<b>Dr. Song</b> will join <b>Department of Biomedical Engineering</b> at City University of Hong Kong as a <b>Presidential Assistant Professor</b> in July 2024. Sincerely appreciate all the strong support from Alice, Wei, professors, and friends. Look forward to this new adventure with outstanding colleagues at CityU BME in HK!'
 widget2:
   title: "We are hiring !"
-  url: 'https://yusong17.github.io/gener.github.io/join/'
+  url: 'https://yusong17.github.io/join/'
   image: hiring-2-303.jpg
   text: 'The <b>Yu Song Lab @ CityU</b> will work on interdisciplinary field to tackle grand challenges towards <b>personalized healthcare</b>. Talented postdoctoral and graduate candidates with related background (i.e. <b>BME, EE, ME, ChemE, BioE, Chem, MSE, and others</b>) are highly welcome and encouraged to contact <b>Dr. Song by <a href="mailto:yusong@cityu.edu.hk">Email</a></b>.'
 widget3:
   title: "Our research scope"
-  url: 'https://yusong17.github.io/gener.github.io/research/'
+  url: 'https://yusong17.github.io/research/'
   image: res-303.jpg
   text: 'We are devoted to developing <b>bioelectronic devices</b> with fundamental study and practical biomedical applications, including but not limited to: <br>1. Skin-interfaced multimodal biosensors;<br>2. Innovation of additive manufacturing;<br>3. AI-powered health assessment;<br>4. Closed-loop personalized medicine.'
 #
