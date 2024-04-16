@@ -20,7 +20,7 @@ header:
         Presidential Assistant Professor<br>
         Department of Biomedical Engineering<br>
         City University of Hong Kong<br>
-        Email: yusong@city.edu.hk<br>
+      Email: <b>yusong@city.edu.hk</b><br>
         Yeung <br>
         Tel: <br>
     </p>
