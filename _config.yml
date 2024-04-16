@@ -9,7 +9,6 @@
 #
 # Title of your website
 title: 'Yu Song Lab'
-encoding: utf-8
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: 'Strive for greatness'
@@ -18,7 +17,7 @@ slogan: 'Strive for greatness'
 description: '»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created by &hearts; <a href="https://yusonglab.com/">Yu Song Lab</a> in <a href="https://www.cityu.edu.hk/bme/">CityU BME</a> @ 2024.</p>'
+credits: '<p>Created by &hearts; <a href="https://yusong17.github.io/gener.github.io/">Yu Song Lab</a> in <a href="https://www.cityu.edu.hk/bme/">CityU BME</a> @ 2024.</p>'
 
 # Main author of the website
 # See > authors.yml
@@ -27,6 +26,7 @@ author: Yu Song
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'https://yusonglab.com'
+# baseurl: '/gener.github.io'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -38,7 +38,7 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://yusonglab.com/images/'
+urlimg: 'https://yusong17.github.io/gener.github.io/images/'
 
 
 # Logo size is 600x80 pixels
