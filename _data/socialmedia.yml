@@ -1,0 +1,44 @@
+- name: Like
+  url: https://yusong17.github.io/gener.github.io/
+  class: icon-thumbs-up
+  title: Thanks for sharing~
+
+- name: Instagram
+  url: https://www.instagram.com/yusonger/
+  class: icon-instagram
+  title: "Photos for life!"
+
+- name: Twitter
+  url: http://twitter.com/Yu_Song17
+  class: icon-twitter
+  title: "Share the recent updates here"
+
+- name: Linkedin
+  url: https://www.linkedin.com/in/yu-song-323111aa/
+  class: icon-linkedin
+  title: "Welcome to reach me out"
+
+# - name: Facebook
+#   url: http://www.facebook.com/
+#   class: icon-facebook
+#   title: ""
+
+# - name: Soundcloud
+#   url: http://soundcloud.com/
+#   class: icon-soundcloud
+#   title: ""
+
+# - name: Instagram
+#   url: http://instagram.com/
+#   class: icon-instagram
+#   title: ""
+
+# - name: Pinterest
+#   url: http://www.pinterest.com/
+#   class: icon-pinterest
+#   title: ""
+
+# - name: Xing
+#   url: https://www.xing.com/profile/
+#   class: icon-xing
+#   title: Xing Profil

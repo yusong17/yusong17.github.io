@@ -1,0 +1,52 @@
+
+    <style>
+      .wrapgrad{
+        margin: 0 auto;
+        width: 480px;
+        height: 270px;
+        background-color: white;
+        overflow: hidden;
+      }
+      .boxgrad{
+        width: calc(480px*4);
+        animation: swipergrad 9s linear infinite;
+      }
+      .grad{
+        float: left;
+        width: 480px;
+    		height: 270px;
+      }
+      @keyframes swipergrad{
+        0% {
+          transform: translateX(0);
+        }
+        10% {
+          transform: translateX(-480px);
+        }
+        33.33% {
+          transform: translateX(-480px);
+        }
+        43.33% {
+          transform: translateX(-960px);
+        }       
+        66.67% {
+          transform: translateX(-960px);
+        }    
+        76.67% {
+          transform: translateX(-1440px);
+        }
+        100% {
+          transform: translateX(-1440px);
+        }
+      }
+    </style>
+    
+    <div class="wrapgrad">
+      <div class="boxgrad">
+        <img src="/images/2020-grad-1.jpg" class="grad" width="480">
+        <img src="/images/2020-grad-2.jpg" class="grad" width="480">
+        <img src="/images/2020-grad-4.jpg" class="grad" width="480">
+        <img src="/images/2020-grad-1.jpg" class="grad" width="480">
+      </div>
+    </div>
+

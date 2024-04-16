@@ -1,0 +1,66 @@
+
+    <style>
+      .wrapusa{
+        margin: 0 auto;
+        width: 480px;
+        height: 270px;
+        background-color: white;
+        overflow: hidden;
+      }
+      .boxusa{
+        width: calc(480px*6);
+        animation: swiperusa 15s linear infinite;
+      }
+      .usa{
+        float: left;
+        width: 480px;
+    		height: 270px;
+      }
+      @keyframes swiperusa{
+        0% {
+          transform: translateX(0);
+        }
+        6% {
+          transform: translateX(-480px);
+        }
+        20% {
+          transform: translateX(-480px);
+        }
+        26% {
+          transform: translateX(-960px);
+        }       
+        40% {
+          transform: translateX(-960px);
+        }    
+        46% {
+          transform: translateX(-1440px);
+        }
+        60% {
+          transform: translateX(-1440px);
+        }
+    66% {
+          transform: translateX(-1920px);
+        }
+        80% {
+          transform: translateX(-1920px);
+        }
+    86% {
+          transform: translateX(-2400px);
+        }
+        100% {
+          transform: translateX(-2400px);
+        }
+      }
+    </style>
+    
+    <div class="wrapusa">
+      <div class="boxusa">
+        <img src="/images/usa-1.jpg" class="usa" width="480">
+        <img src="/images/usa-2.jpg" class="usa" width="480">
+        <img src="/images/usa-3.jpg" class="usa" width="480">
+    		<img src="/images/usa-4.jpg" class="usa" width="480">
+    		<img src="/images/usa-5.jpg" class="usa" width="480">
+        <img src="/images/usa-1.jpg" class="usa" width="480">
+      </div>
+    </div>
+
