@@ -16,11 +16,11 @@ header:
   </div>
   <div class="large-8 columns">
     <p style="font-size:22px">
-      <b>Yu Song, Ph.D. <u><a href="https://yusong17.github.io/mypaper/CV-Yu Song.pdf">CV</a></u> Bio</b><br>
-        Presidential Assistant Professor<br>
+      <b>Yu Song</b>, Ph.D.&nbsp;&nbsp;<u><a href="https://yusong17.github.io/mypaper/CV-Yu Song.pdf">CV</a></u>&nbsp;&nbsp;Bio<br>
+      <b>Presidential Assistant Professor</b><br>
         Department of Biomedical Engineering<br>
         City University of Hong Kong<br>
-      Email: <b>yusong@city.edu.hk</b><br>
+      Email: <b>yusong@cityu.edu.hk</b><br>
         Office: Yeung <br>
         Tel: <br>
     </p>
