@@ -2,7 +2,7 @@
 layout              : page
 title               : "Contact"
 meta_title          : "Contact"
-subheadline         : "Yu Song Lab @ CityU"
+subheadline         : "Song Lab @ CityU"
 permalink           : "/contact/"
 header:
    image_fullwidth: usa-4.jpg

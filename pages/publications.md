@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title:  "Publications"
 meta_title: "Publications"
-subheadline:  "Yu Song Lab @ CityU"
+subheadline:  "Song Lab @ CityU"
 permalink: "/publications/"
 header:
    image_fullwidth: pku-4.jpg

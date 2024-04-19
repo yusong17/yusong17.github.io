@@ -2,7 +2,7 @@
 layout              : page-fullwidth
 title               : "Lab members"
 meta_title          : "Lab members"
-subheadline         : "Yu Song Lab @ CityU"
+subheadline         : "Song Lab @ CityU"
 permalink           : "/members/"
 header:
    image_fullwidth: usa-2.jpg

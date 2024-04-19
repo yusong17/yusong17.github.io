@@ -1,7 +1,7 @@
 ---
 layout: page
 sidebar: awards
-subheadline: Yu Song Lab @ CityU
+subheadline: Song Lab @ CityU
 title:  "Awards & Honors"
 meta_title: "Awards & Honors"
 breadcrumb: false

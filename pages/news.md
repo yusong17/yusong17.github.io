@@ -1,7 +1,7 @@
 ---
 layout: page
 sidebar: news
-subheadline: Yu Song Lab @ CityU
+subheadline: Song Lab @ CityU
 title:  "News"
 meta_title: "News"
 breadcrumb: false
