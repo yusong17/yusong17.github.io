@@ -11,7 +11,7 @@ widget1:
   title: "New journey just begins"
   url: 'https://yusong17.github.io/members/'
   image: cityu-303.jpg
-  text: '<b>Dr. Song</b> will join <b>Department of Biomedical Engineering</b> at City University of Hong Kong as a <b>Presidential Assistant Professor</b> in July 2024. Sincerely appreciate all the strong support from Alice, Wei, professors, and friends. Look forward to this new adventure with outstanding colleagues at CityU BME in HK!'
+  text: '<b>Dr. Song</b> will join <b>Department of Biomedical Engineering</b> at City University of Hong Kong as a <b><a href="https://www.cityu.edu.hk/vpti/paps/index.htm">Presidential Assistant Professor</a></b> in July 2024. Sincerely appreciate all the strong support from Alice, Wei, professors, and friends. Look forward to this new adventure with outstanding colleagues at CityU BME in HK!'
 widget2:
   title: "We are hiring !"
   url: 'https://yusong17.github.io/join/'
