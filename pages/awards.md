@@ -24,7 +24,7 @@ header:
 
 
 <div style="flex: 16; border: 1px solid white; margin: 1px; padding: 1px;">
-<p><b>2024 Forbes 30 under 30 Asia - Healthcare & Science</b>, <a href="https://www.forbes.com/30-under-30/2024/asia/healthcare-science">full list</a></p></div>
+<p><b>2024 Forbes 30 under 30 Asia - Healthcare & Science</b>-<a href="https://www.forbes.com/30-under-30/2024/asia/healthcare-science">full list</a></p></div>
 
 
 
