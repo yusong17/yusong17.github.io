@@ -15,7 +15,7 @@ header:
       <center>
     	{% include photo-gao.html %}
         <h7> </h7><br>
-    		<b>Happy new year to 2023!</b>
+    		<b>Memories @ Caltech, 2021-2024.</b>
 			</center>
   </div>   
   <div class="large-6 columns">

@@ -7,9 +7,60 @@
         background-color: white;
         overflow: hidden;
       }
+      .boxgao{
+        width: calc(480px*6);
+        animation: swipergao 15s linear infinite;
+      }
+      .gao{
+        float: left;
+        width: 480px;
+    		height: 270px;
+      }
+      @keyframes swipergao{
+        0% {
+          transform: translateX(0);
+        }
+        6% {
+          transform: translateX(-480px);
+        }
+        20% {
+          transform: translateX(-480px);
+        }
+        26% {
+          transform: translateX(-960px);
+        }       
+        40% {
+          transform: translateX(-960px);
+        }    
+        46% {
+          transform: translateX(-1440px);
+        }
+        60% {
+          transform: translateX(-1440px);
+        }
+    66% {
+          transform: translateX(-1920px);
+        }
+        80% {
+          transform: translateX(-1920px);
+        }
+    86% {
+          transform: translateX(-2400px);
+        }
+        100% {
+          transform: translateX(-2400px);
+        }
+      }
     </style>
     
     <div class="wrapgao">
-        <img src="/images/2023-new year.jpg" class="grad" width="480">
+    	<div class="boxgao">
+        <img src="/images/2023-new year.jpg" class="gao" width="480">
+        <img src="/images/2023-new year.jpg" class="gao" width="480">
+        <img src="/images/2023-new year.jpg" class="gao" width="480">
+        <img src="/images/2023-new year.jpg" class="gao" width="480">
+        <img src="/images/2023-new year.jpg" class="gao" width="480">
+        <img src="/images/2023-new year.jpg" class="gao" width="480">
+      </div>
     </div>
 
