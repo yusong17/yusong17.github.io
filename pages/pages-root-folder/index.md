@@ -63,13 +63,12 @@ homepage: true
     <b>2024</b><br>
     May, Dr. Song was listed in the <b>Forbes 30 under 30 Asia</b> Healthcare & Science category. <u><a href="https://www.forbes.com/30-under-30/2024/asia/healthcare-science">Link</a></u><br><h8> </h8><br>
     <center> <img src="images/forbes30-song.jpg" width="200"> </center><br>
-    <b>2024</b><br>
     Feb, Dr. Song's first-author paper on multimodal biosensors for AI-reinforced stress assessment was published at <b><i>Nature Electronics</i></b>. <u><a href="https://www.nature.com/articles/s41928-023-01116-6">Link</a></u><br><h8> </h8><br>
     <center> <img src="images/logo/nel.jpg" width="200"> </center><br>
     <b>2023</b><br>
     Oct, Dr. Song was recognized as one of the <b>World's Top 2% Scientists</b> by Stanford University and Elsevier Scopus. See <u><a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6">full list</a></u><br><h8> </h8><br>
     <center> <img src="images/logo/2023scientist.png" width="200"> </center><br>
-     Sep, Dr. Song's first-author paper on 3D-printed system for ML-powered health surveillance was published at <b><i>Science Advances</i></b>. <u><a href="https://www.science.org/doi/full/10.1126/sciadv.adi6492">Link</a></u><br><h8> </h8><br>
+    Sep, Dr. Song's first-author paper on 3D-printed system for ML-powered health surveillance was published at <b><i>Science Advances</i></b>. <u><a href="https://www.science.org/doi/full/10.1126/sciadv.adi6492">Link</a></u><br><h8> </h8><br>
     <center> <img src="images/logo/sa.png" width="200"> </center><br>
   </div>
 </div>
