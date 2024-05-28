@@ -61,6 +61,9 @@ homepage: true
   <div class="large-6 columns">
     <b><h3>Group news</h3></b><br>
     <b>2024</b><br>
+    May, Dr. Song was listed in the <b>Forbes 30 under 30 Asia</b> Healthcare & Science category. <u><a href="https://www.forbes.com/30-under-30/2024/asia/healthcare-science">Link</a></u><br><h8> </h8><br>
+    <center> <img src="images/forbes30-song.jpg" width="200"> </center><br>
+    <b>2024</b><br>
     Feb, Dr. Song's first-author paper on multimodal biosensors for AI-reinforced stress assessment was published at <b><i>Nature Electronics</i></b>. <u><a href="https://www.nature.com/articles/s41928-023-01116-6">Link</a></u><br><h8> </h8><br>
     <center> <img src="images/logo/nel.jpg" width="200"> </center><br>
     <b>2023</b><br>
