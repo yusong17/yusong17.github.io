@@ -21,7 +21,7 @@ widget3:
   title: "Our research scope"
   url: 'https://yusong17.github.io/research/'
   image: res-303.jpg
-  text: 'We are devoted to developing <b>bioelectronic devices</b> with fundamental study and practical biomedical applications, including but not limited to: <br>1. Skin-interfaced multimodal biosensors;<br>2. Innovation of additive manufacturing;<br>3. AI-powered health assessment;<br>4. Closed-loop personalized medicine.'
+  text: 'We are devoted to developing <b>bioelectronic devices</b> with fundamental study and practical biomedical applications, including but not limited to: <br>1. Skin-interfaced multimodal biosensors;<br>2. Innovation of advanced manufacturing;<br>3. AI-powered health assessment;<br>4. Closed-loop personalized medicine.'
 #
 # Use the call for action to show a button on the frontpage
 #
