@@ -16,7 +16,7 @@ header:
   </div>
   <div class="large-8 columns">
     <p style="font-size:22px">
-      <b>Yu Song</b>,&nbsp;&nbsp;Ph.D.,&nbsp;&nbsp;<u><a href="https://yusong17.github.io/mypaper/cv-yusong.pdf">CV</a></u>,&nbsp;&nbsp;Bio<br>
+      <b>Yu Song</b>,&nbsp;&nbsp;Ph.D.,&nbsp;&nbsp;<u><a href="https://yusong17.github.io/mypaper/cv-yusong.pdf">CV</a></u>,&nbsp;&nbsp;<u><a href="https://yusong17.github.io/mypaper/bio.pdf">Bio</a></u><br>
       <b>Presidential Assistant Professor</b><br>
         Department of Biomedical Engineering<br>
         City University of Hong Kong<br>
