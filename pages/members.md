@@ -21,8 +21,8 @@ header:
         Department of Biomedical Engineering<br>
         City University of Hong Kong<br>
       Email: <b>yusong@cityu.edu.hk</b><br>
-        Office: Yeung <br>
-        Tel: <br>
+        Office: Yeung-Y7425<br>
+        Tel: +852 34429002<br>
     </p>
   </div>
 </div>

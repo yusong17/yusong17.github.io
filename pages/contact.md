@@ -11,9 +11,9 @@ header:
 
 ##### Email: yusong@cityu.edu.hk
 
-##### **Office: YEUNG** xxx
+##### **Office: YEUNG-Y7425**
 
-##### **Tel:**
+##### **Tel: +852 34429002**
 
 ##### [Department of Biomedical Engineering](https://www.cityu.edu.hk/bme/)
 
