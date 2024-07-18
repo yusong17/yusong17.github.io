@@ -63,8 +63,7 @@ homepage: true
     <b><h3>Group news</h3></b><br>
     <b>2024</b><br>
     Jul, Dr. Song‘s co-author paper on smart mask for exhaled breath condensate analysis was accepted by <b><i>Science</i></b>.<br><h8> </h8><br>
-    <center> <img src="images/logo/science.png" width="200"> </center><br>
-    <b>2024</b><br>
+    <center> <img src="images/logo/sci-2.png" width="160"> </center><br>
     May, Dr. Song was listed in the <b>Forbes 30 under 30 Asia</b> Healthcare & Science category. <u><a href="https://www.forbes.com/30-under-30/2024/asia/healthcare-science">Link</a></u><br><h8> </h8><br>
     <center> <img src="images/forbes30-song.jpg" width="200"> </center><br>
     Feb, Dr. Song's first-author paper on multimodal biosensors for AI-reinforced stress assessment was published at <b><i>Nature Electronics</i></b>. <u><a href="https://www.nature.com/articles/s41928-023-01116-6">Link</a></u><br><h8> </h8><br>
@@ -76,4 +75,3 @@ homepage: true
     <center> <img src="images/logo/sa.png" width="200"> </center><br>
   </div>
 </div>
-
