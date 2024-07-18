@@ -11,7 +11,7 @@ widget1:
   title: "New journey just begins"
   url: 'https://yusong17.github.io/members/'
   image: cityu-303.jpg
-  text: '<b>Dr. Song</b> will join <b>Department of Biomedical Engineering</b> at City University of Hong Kong as a <b><a href="https://www.cityu.edu.hk/vpti/paps/index.htm">Presidential Assistant Professor</a></b> in July 2024. Sincerely appreciate all the strong support from Alice, Wei, professors, and friends. Look forward to this new adventure with outstanding colleagues at CityU BME in HK!'
+  text: '<b>Dr. Song</b> has joined <b>Department of Biomedical Engineering</b> at City University of Hong Kong as a <b><a href="https://www.cityu.edu.hk/vpti/paps/index.htm">Presidential Assistant Professor</a></b> in July 2024. Sincerely appreciate all the strong support from Alice, Wei, professors, and friends. Look forward to this new adventure with outstanding colleagues at CityU BME in HK!'
 widget2:
   title: "We are hiring !"
   url: 'https://yusong17.github.io/join/'
@@ -52,7 +52,7 @@ homepage: true
   <div class="large-6 columns">
     <b><h3>Recent publications</h3></b>
       <br>
-    W Heng, S Yin, J Min, C Wang, H Han, E Sani, J Li, <b>Yu Song</b>, H Rossiter, W Gao*. A smart mask for exhaled breath condensate harvesting and analysis, <i><b>Science</b></i>, 2024, <i>in press</i>. 
+    W Heng, S Yin, J Min, C Wang, H Han, E Sani, J Li, <b>Yu Song</b>, H Rossiter, W Gao*. A smart mask for exhaled breath condensate harvesting and analysis, <i><b>Science</b></i>, 2024, <i>in press</i>.<br><br>
     C Xu†, <b>Yu Song†</b>, et al., W Gao*, <a href="https://www.nature.com/articles/s41928-023-01116-6">An artificial intelligence-reinforced physicochemical sensing electronic skin for stress response monitoring</a>, <i><b>Nature Electronics</b></i>, 2024, 7, 168-179.<br><br>
     <b>Yu Song</b>, et al., W Gao*, <a href="https://www.science.org/doi/full/10.1126/sciadv.adi6492">3D-printed epifluidic electronic skin for machine learning-powered multimodal health surveillance</a>, <i><b>Science Advances</b></i>, 2023, 9, eadi6492.<br><br>
     R Tay†, <b>Yu Song†</b>, D Yao, W Gao*, <a href="https://doi.org/10.1016/j.mattod.2023.09.006">Direct-ink-writing 3D-printed bioelectronics</a>, <i><b>Materials Today</b></i>, 2023, 71, 135-151.<br><br>
@@ -62,7 +62,7 @@ homepage: true
   <div class="large-6 columns">
     <b><h3>Group news</h3></b><br>
     <b>2024</b><br>
-    Jul, Dr. Song‘s co-author paper on smart mask for exhaled breath condensate analysis was accepted by <b><i>Science</i></b><br>
+    Jul, Dr. Song‘s co-author paper on smart mask for exhaled breath condensate analysis was accepted by <b><i>Science</i></b>.<br><h8> </h8><br>
     <center> <img src="images/logo/science.png" width="200"> </center><br>
     <b>2024</b><br>
     May, Dr. Song was listed in the <b>Forbes 30 under 30 Asia</b> Healthcare & Science category. <u><a href="https://www.forbes.com/30-under-30/2024/asia/healthcare-science">Link</a></u><br><h8> </h8><br>
@@ -76,3 +76,4 @@ homepage: true
     <center> <img src="images/logo/sa.png" width="200"> </center><br>
   </div>
 </div>
+
