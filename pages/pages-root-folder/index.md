@@ -50,9 +50,8 @@ homepage: true
 
 <div class="row">
   <div class="large-6 columns">
-    <b><h3>Recent publications</h3></b>
-      <br>
-    W Heng, S Yin, J Min, C Wang, H Han, E Sani, J Li, <b>Yu Song</b>, H Rossiter, W Gao*. <a href="https://www.science.org/doi/10.1126/science.adn6471">A smart mask for exhaled breath condensate harvesting and analysis, <i><b>Science</b></i>, 2024, 385, 954-961.<br><br>
+    <b><h3>Recent publications</h3></b><br>
+    W Heng, S Yin, J Min, C Wang, H Han, E Sani, J Li, <b>Yu Song</b>, H Rossiter, W Gao*. <a href="https://www.science.org/doi/10.1126/science.adn6471">A smart mask for exhaled breath condensate harvesting and analysis</a>, <i><b>Science</b></i>, 2024, 385, 954-961.<br><br>
     C Xu†, <b>Yu Song†</b>, et al., W Gao*, <a href="https://www.nature.com/articles/s41928-023-01116-6">An artificial intelligence-reinforced physicochemical sensing electronic skin for stress response monitoring</a>, <i><b>Nature Electronics</b></i>, 2024, 7, 168-179.<br><br>
     <b>Yu Song</b>, et al., W Gao*, <a href="https://www.science.org/doi/full/10.1126/sciadv.adi6492">3D-printed epifluidic electronic skin for machine learning-powered multimodal health surveillance</a>, <i><b>Science Advances</b></i>, 2023, 9, eadi6492.<br><br>
     R Tay†, <b>Yu Song†</b>, D Yao, W Gao*, <a href="https://doi.org/10.1016/j.mattod.2023.09.006">Direct-ink-writing 3D-printed bioelectronics</a>, <i><b>Materials Today</b></i>, 2023, 71, 135-151.<br><br>
