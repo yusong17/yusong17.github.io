@@ -61,7 +61,7 @@ homepage: true
   <div class="large-6 columns">
     <b><h3>Group news</h3></b><br>
     <b>2024</b><br>
-    Jul, Dr. Song‘s co-author paper on smart mask for exhaled breath condensate analysis was published in <b><i>Science</i></b>. <u><a href="https://www.science.org/doi/10.1126/science.adn6471">Link</a></u><br><h8> </h8><br>
+    Aug, Dr. Song‘s co-author paper on smart mask for exhaled breath condensate analysis was published in <b><i>Science</i></b>. <u><a href="https://www.science.org/doi/10.1126/science.adn6471">Link</a></u><br><h8> </h8><br>
     <center> <img src="images/logo/sci-2.png" width="160"> </center><br>
     May, Dr. Song was listed in the <b>Forbes 30 under 30 Asia</b> Healthcare & Science category. <u><a href="https://www.forbes.com/30-under-30/2024/asia/healthcare-science">Link</a></u><br><h8> </h8><br>
     <center> <img src="images/forbes30-song.jpg" width="200"> </center><br>

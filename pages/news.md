@@ -13,11 +13,14 @@ header:
 ---
 <br>
 
+
+- 2024/08: Dr Song's co-author paper on smart mask for exhaled breath condensate harvesting and analysis was published at ***[Science](https://www.science.org/doi/10.1126/science.adn6471)***.
+
+
 - 2024/02: Dr Song‘s first-author paper on wearable multimodal biosensors for AI-reinforced stress assessment was published at ***[Nature Electronics](https://www.nature.com/articles/s41928-023-01116-6)***.
 
 
 - 2023/09: Dr Song's first-author paper on 3D-printed electronics skin for machine learning-powered health surveillance was published at ***[Science Advances](https://www.science.org/doi/full/10.1126/sciadv.adi6492)*** and featured on ***Science.org***.
-
 
 - 2023/09: Dr Song's first-author review on direct-ink-writing 3D-printed bioelectronics was published at ***[Materials Today](https://www.sciencedirect.com/science/article/abs/pii/S1369702123003000)***.
 
@@ -41,6 +44,11 @@ header:
 
 <br>
 
+* 2024/05: Shanghai Jiaotong University, Micro-Nano Electronics, Shanghai.
+* 2024/05: ShanghaiTech University, Biomedical Engineering, Shanghai.
+* 2024/05: Zhejiang University, Biomedical Engineering, Hangzhou.
+* 2024/05: Huazhong University of Science and Technology, Integrated Circuits, Wuhan.
+* 2024/05: Harbin Institute of Technology, Optical Engineering, Weihai.
 * 2024/02: Shenzhen University, Biomedical Engineering, Shenzhen.
 
 
