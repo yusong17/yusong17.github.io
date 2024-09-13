@@ -11,7 +11,9 @@ header:
 
 <br>
 
-​	56. W Heng, S Yin, J Min, C Wang, H Han, E Sani, J Li, **Yu Song**, H Rossiter, W Gao\*. [A smart mask for exhaled breath condensate harvesting and analysis](https://www.science.org/doi/10.1126/science.adn6471), ***Science***, 2024, 385, 954-961. [**Download PDF**](https://yusong17.github.io/mypaper/wz-sci.pdf).
+​	57. W Heng, S Yin, J Min, C Wang, H Han, E Sani, J Li, **Yu Song**, H Rossiter, W Gao\*. [A smart mask for exhaled breath condensate harvesting and analysis](https://www.science.org/doi/10.1126/science.adn6471), ***Science***, 2024, 385, 954-961. [**Download PDF**](https://yusong17.github.io/mypaper/wz-sci.pdf).
+
+​	56. A Childs, B Mayol, J Lasalde-Ramírez, **Yu Song**, J  Sempionatto, W Gao\*. [Diving into Sweat: Advances, Challenges, and Future Directions in Wearable Sweat Sensing](https://pubs.acs.org/doi/full/10.1021/acsnano.4c10344), ***ACS Nano***, 2024, 18, 24605-24616. [**Download PDF**](https://yusong17.github.io/mypaper/acsnano-jrs.pdf).
 
 ​	55. C Xu†, **Yu Song†**, J Sempionatto†, S Solomon†, Y Yu, H Nyein, R Tay, J Li, A Lao, T Hsiai, J Sumner, W Gao\*. [An artificial intelligence-reinforced physicochemical sensing electronic skin for stress response monitoring](https://www.nature.com/articles/s41928-023-01116-6), ***Nature Electronics***, 2024, 7, 168-179. [**Download PDF**](https://yusong17.github.io/mypaper/nel.pdf). 
 
