@@ -22,6 +22,21 @@ header:
 
 
 
+<div style="flex: 16; border: 1px solid white; margin: 1px; padding: 1px;">
+  <p><b>Outstanding Young Scientist Award</b>, Microsystems & Nanoengineering</p></div>
+
+
+
+</div>
+
+<div style="display: flex;">
+<div style="flex: 3; border: 1px solid white; margin: 1px; padding: 1px;">
+ <p><b>▪   </b>2024</p></div>
+
+
+
+
+
 
 <div style="flex: 16; border: 1px solid white; margin: 1px; padding: 1px;">
 <p><b>2024 Forbes 30 under 30 Asia - Healthcare & Science</b>-<a href="https://www.forbes.com/30-under-30/2024/asia/healthcare-science">full list</a></p></div>
