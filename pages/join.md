@@ -9,11 +9,11 @@ header:
 ---
 #### We are looking for talented and motivated postdoctoral scholars, Ph.D. students, undergraduate students, research assistants to join us! Please contact Dr. Yu Song by [EMAIL](mailto:yusong@cityu.edu.hk) if you are interested.
 
-### Postdoctoral Scholar (2+ positions starting Fall 2024)
+### Postdoctoral Scholar (2+ positions starting Spring 2024)
 
 Postdoc applicants should normally obtain Ph.D. degree soon or no longer than 3 years in related fields with strong research experience and acknowledged outcomes. The candidate could collaborate with the PI to develop research, conduct experiments and manage the lab with good capability in communication, responsibility, and English oral/writing. **A competitive salary will be offered** and the candidated will also be strongly supported to apply funding from different sources.
 
-### Ph.D. Student (3+ positions starting Spring/Fall 2025)
+### Ph.D. Student (3+ positions starting Fall 2025)
 
 Ph.D. applicants should graduate from renowned universities owing a bachelor’s or master’s degree with related background (including **BME, EE, ME, ChemE, BioE, Chem, MSC, and others**). The candidate will be **fully funded** (monthly salary: ~HK$ 18,000) and highly recommended to apply for several fellowships, such as HKPFS with grants for research activities/conference. Check [**Here**](https://www.cityu.edu.hk/bme/prg-phdmphil.htm) for more details.
 
@@ -26,7 +26,7 @@ We always welcome **undergraduate researchers** from all backgrounds at CityU to
 - self-powered bioelectronics
 - data analytics and machine learning
 
-### Research Assistant / Visiting Student (2 positions starting Fall 2024)
+### Research Assistant / Visiting Student (2+ positions starting Spring 2025)
 
 Research assistant / visitng student applicants should obtain the BSc or MSc degree and are required to fully work continuously no less than half years. The candidate could assist PI to deal with research projects and lab maintenance, and are recommended to pursue Ph.D. degree at the lab or overseas with great performance. The salary could be negotiated after the interview with additional allowance.
 

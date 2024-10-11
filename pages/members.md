@@ -66,25 +66,3 @@ header:
 
 <br>
 
-<div class="row">
-  <div class="large-3 columns">
-      <center>
-         <b></b><br>
-			</center>
-  </div>
-  <div class="large-3 columns">
-     <center> 
-        <b></b><br>
-			</center>
-  </div>
-  <div class="large-3 columns">
-          <center>
-        <b></b><br>
-			</center>
-  </div>
-  <div class="large-3 columns">
-          <center>
-        <b></b><br>
-			</center>
-  </div>
-</div>
