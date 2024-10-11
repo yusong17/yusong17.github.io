@@ -17,7 +17,7 @@ header:
   </div>
   <div class="large-8 columns">
     <p style="font-size:22px">
-      <b>Yu SONG</b>,&nbsp;&nbsp;Ph.D.,&nbsp;&nbsp;<u><a href="https://yusong17.github.io/mypaper/cv-yusong.pdf">CV</a></u>,&nbsp;&nbsp;<u><a href="https://yusong17.github.io/mypaper/bio.pdf">Bio</a></u><br>
+      <b>Yu SONG</b>,&nbsp;&nbsp;<b>PI</b>,&nbsp;&nbsp;Ph.D.,&nbsp;&nbsp;<u><a href="https://yusong17.github.io/mypaper/cv-yusong.pdf">CV</a></u>,&nbsp;&nbsp;<u><a href="https://yusong17.github.io/mypaper/bio.pdf">Bio</a></u><br>
       <b>Presidential Assistant Professor</b><br>
         Department of Biomedical Engineering<br>
         City University of Hong Kong<br>
@@ -30,12 +30,12 @@ header:
 
 #### Postdoctoral scholars
 
-<h7></h7><br>
+<br>
 
 <div class="row">
   <div class="large-3 columns">
       <center>
-    		{% include photo-postdoc.html %} 
+    		{% include photo-yazhang.html %} 
         <b>Ya ZHANG</b>
        <br>
         Ph.D. Chongqing University
@@ -64,12 +64,12 @@ header:
 
 #### Undergraduates
 
+<br>
+
 <div class="row">
   <div class="large-3 columns">
       <center>
-    		{% include photo-postdoc.html %} 
-        <b>Zhichen HUA</b><br>
-        Biomedical Engineering (CityU)
+         <b></b><br>
 			</center>
   </div>
   <div class="large-3 columns">
@@ -88,5 +88,3 @@ header:
 			</center>
   </div>
 </div>
-
-#### Alumni
