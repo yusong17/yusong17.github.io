@@ -12,7 +12,7 @@ header:
 
 <div class="row">
   <div class="large-4 columns">
-      <img src="https://yusong17.github.io/yusonglab.github.io/images/drsong.png">
+      <img src="https://yusong17.github.io/yusonglab.github.io/images/drsong-2.jpg">
   </div>
   <div class="large-8 columns">
     <p style="font-size:22px">
@@ -26,6 +26,7 @@ header:
     </p>
   </div>
 </div>
+
 
 <br>
 
