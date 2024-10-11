@@ -28,10 +28,6 @@ header:
   </div>
 </div>
 
-### We are hiring !!!
-
-<br>
-
 #### Postdocs
 
 <br>
@@ -47,10 +43,31 @@ header:
 			</center>
   </div>
   <div class="large-4 columns">
+     <center>
+    		{% include photo-postdoc.html %} 
+        <h7> </h7><br>
+        <b>xxxx</b>
+        <h7> </h7><br>
+        Ph.D. xxx
+			</center>
   </div>
   <div class="large-4 columns">
+          <center>
+    		{% include photo-postdoc.html %} 
+        <h7> </h7><br>
+        <b>xxxx</b>
+        <h7> </h7><br>
+        Ph.D. xxx
+			</center>
   </div>
   <div class="large-4 columns">
+          <center>
+    		{% include photo-postdoc.html %} 
+        <h7> </h7><br>
+        <b>xxxx</b>
+        <h7> </h7><br>
+        Ph.D. xxx
+			</center>
   </div>
 </div>
 
