@@ -35,9 +35,10 @@ header:
 
 #### Postdocs
 
+<br>
+
 <div class="row">
   <div class="large-3 columns">
-    <br>
     {% include photo-postdoc.html %}
     <h7> </h7><br>
     <b>xxx</b>
@@ -51,28 +52,8 @@ header:
   </div>
 </div>
 
-<br>
-
-#### Ph.D. Students
+<br>Ph.D. Students
 
 #### Undergraduates
-
-<div class="row">
-  <div class="large-3 columns">
-    <br>
-    {% include photo-postdoc.html %}
-    <h7> </h7><br>
-    <b>xxx</b>
-    <b>Biomedical Engineering</b>
-  </div>
-  <div class="large-3 columns">
-	</div>
-  <div class="large-3 columns">
-	</div>
-  <div class="large-3 columns">
-  </div>
-</div>
-
-<br>
 
 #### Alumni
