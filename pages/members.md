@@ -41,19 +41,16 @@ header:
   </div>
   <div class="large-3 columns">
      <center>
-    		{% include photo-postdoc.html %} 
         <b></b><br>
 			</center>
   </div>
   <div class="large-3 columns">
           <center>
-    		{% include photo-postdoc-.html %} 
         <b></b><br>
 			</center>
   </div>
   <div class="large-3 columns">
           <center>
-    		{% include photo-postdoc-.html %} 
         <b></b><br>
 			</center>
   </div>
@@ -68,27 +65,24 @@ header:
 <div class="row">
   <div class="large-3 columns">
       <center>
-    		{% include photo-postdoc-.html %} 
+    		{% include photo-postdoc.html %} 
         <b>Zhichen HUA</b><br>
         Biomedical Engineering (CityU)
 			</center>
   </div>
   <div class="large-3 columns">
-     <center>
-    		{% include photo-postdoc-.html %} 
+     <center> 
         <b></b><br>
 			</center>
   </div>
   <div class="large-3 columns">
           <center>
-    		{% include photo-postdoc-.html %} 
         <b></b><br>
 			</center>
   </div>
   <div class="large-3 columns">
           <center>
-    		{% include photo-postdoc-.html %} 
-        <b>xxxx</b><br>
+        <b></b><br>
 			</center>
   </div>
 </div>
