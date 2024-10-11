@@ -11,13 +11,17 @@ header:
 
 <br>
 
+​	58. S Yin, D Yao, **Yu Song**, W Heng, X Ma, H Han, W Gao\*. Wearable and implantable soft robots, ***Chemical Reviews***, 2024. *in press*
+
 ​	57. W Heng, S Yin, J Min, C Wang, H Han, E Sani, J Li, **Yu Song**, H Rossiter, W Gao\*. [A smart mask for exhaled breath condensate harvesting and analysis](https://www.science.org/doi/10.1126/science.adn6471), ***Science***, 2024, 385, 954-961. [**Download PDF**](https://yusong17.github.io/mypaper/wz-sci.pdf).
+
+*Highlighted in "[Every breath you take, this mask will be watching your health](https://www.science.org/content/article/every-breath-you-take-mask-will-be-watching-your-health)", **Science**, Aug 2024.*
 
 ​	56. A Childs, B Mayol, J Lasalde-Ramírez, **Yu Song**, J  Sempionatto, W Gao\*. [Diving into Sweat: Advances, Challenges, and Future Directions in Wearable Sweat Sensing](https://pubs.acs.org/doi/full/10.1021/acsnano.4c10344), ***ACS Nano***, 2024, 18, 24605-24616. [**Download PDF**](https://yusong17.github.io/mypaper/acsnano-jrs.pdf).
 
 ​	55. C Xu†, **Yu Song†**, J Sempionatto†, S Solomon†, Y Yu, H Nyein, R Tay, J Li, A Lao, T Hsiai, J Sumner, W Gao\*. [An artificial intelligence-reinforced physicochemical sensing electronic skin for stress response monitoring](https://www.nature.com/articles/s41928-023-01116-6), ***Nature Electronics***, 2024, 7, 168-179. [**Download PDF**](https://yusong17.github.io/mypaper/nel.pdf). 
 
-*Highlighted in "[Stress monitoring with wearable technology and AI](https://www.nature.com/articles/s41928-024-01128-w)", Nature Electronics, 2024, 7, 98-99.*
+*Highlighted in "[Stress monitoring with wearable technology and AI](https://www.nature.com/articles/s41928-024-01128-w)", **Nature Electronics**, 2024, 7, 98-99.*
 
 ​	54. **Yu Song†**, R Tay†, J Li, C Xu, J. Min, E Sani, G Kim, W Heng, I Kim, W Gao\*. [3D-printed epifluidic electronic skin for machine learning-powered multimodal health surveillance](https://www.science.org/doi/full/10.1126/sciadv.adi6492), ***Science Advances***, 2023, 9, eadi6492. [**Download PDF**](https://yusong17.github.io/mypaper/sa-2.pdf).
 
@@ -29,7 +33,7 @@ header:
 
 ​	52. J Min, S Demchyshyn, J Sempionatto, **Yu Song**, B Hailegnaw, C Xu, Y Yang, S Solomon, C Putz, L Lehner, J Schwarz, C Schwarzinger, M Scharber, M Kaltenbrunner, W Gao\*. [An autonomous wearable biosensor powered by a perovskite solar cell](https://www.nature.com/articles/s41928-023-00996-y), ***Nature Electronics***, 2023, 6, 630-641. **[Download PDF](https://yusong17.github.io/mypaper/jihong-nel-2.pdf)**.
 
-*Highlighted in "[Continuous sweat monitoring on the go](https://www.nature.com/articles/s41928-023-01017-8)", Nature Electronics, 2023, 6, 557-558.*
+*Highlighted in "[Continuous sweat monitoring on the go](https://www.nature.com/articles/s41928-023-01017-8)", **Nature Electronics**, 2023, 6, 557-558.*
 
 *Featured on [**Journal Cover**](https://yusong17.github.io/mypaper/jihong-nel-cover.pdf).*
 
@@ -81,7 +85,7 @@ header:
 
 *Highlighted in [Caltech News](https://www.caltech.edu/about/news/wearable-sweat-sensor-detects-gout-causing-compounds), [Physics World](https://physicsworld.com/a/can-a-simple-sweat-sensor-replace-blood-tests/), [Xinhua](http://www.xinhuanet.com/english/2019-11/27/c_138587357.htm), [Science Daily](https://www.sciencedaily.com/releases/2020/02/200226134124.htm), etc.*
 
-*Highlighted in "[Mass-producing wearable sensors: No sweat](https://www.science.org/doi/10.1126/scitranslmed.aaz9766)", Editor's Choice, Science Translational Medicine, 2019, 11, eaaz9766.*
+*Highlighted in "[Mass-producing wearable sensors: No sweat](https://www.science.org/doi/10.1126/scitranslmed.aaz9766)", Editor's Choice, **Science Translational Medicine**, 2019, 11, eaaz9766.*
 
 *Featured on [**Back Cover**](https://yusong17.github.io/nbt-cover.pdf) of **[Caltech Magazine](https://magazine.caltech.edu/post/sweat)**.*
 
@@ -89,7 +93,7 @@ header:
 
 *Highlighted in [Caltech News](https://www.caltech.edu/about/news/electronic-skin-fully-powered-sweat-can-monitor-health-serve-human-machine-interface), [Yahoo News](https://news.yahoo.com/smart-second-skin-gets-power-184502589.html?guccounter=1&guce_referrer=aHR0cDovL3d3dy5nYW8uY2FsdGVjaC5lZHUv&guce_referrer_sig=AQAAADlGhC0OAuFrnhfpwVqsh0QQovPGAlyN4srbkRFIjdyB_se), [The Engineer,](https://www.theengineer.co.uk/content/news/human-sweat-powered-e-skin-points-to-future-robotics) [CNET](https://www.cnet.com/science/your-sweat-powers-this-wearable/), [Inside Science](https://www.insidescience.org/video/global-air-pollution-drop-electronic-skin-and-brain-machines), etc.*
 
-*Highlighted in "[Electronic skins sweat it out](https://www.nature.com/articles/s41928-020-0420-1)", Editor's Research Highlight, Nature Electronics, 2020, 3, 235.*
+*Highlighted in "[Electronic skins sweat it out](https://www.nature.com/articles/s41928-020-0420-1)", Editor's Research Highlight, **Nature Electronics**, 2020, 3, 235.*
 
 ​	38. R Torrente-Rodriguez, J Tu, Y Yang, J Min, M Wang, **Yu Song**, Y Yu, C Xu, C Ye, W IsHak, W Gao\*. [Investigation of Cortisol Dynamics in Human Sweat Using a Graphene-Based Wireless mHealth System](https://www.sciencedirect.com/science/article/pii/S2590238520300217), ***Matter***, 2020, 2, 921-937. [**Download PDF**](https://yusong17.github.io/mypaper/rebecca-matter.pdf).   
 
