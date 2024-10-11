@@ -12,7 +12,7 @@ header:
 
 <div class="row">
   <div class="large-4 columns">
-    {% include photo-ys.html %}
+      {% include photo-ys.html %}
   </div>
   <div class="large-8 columns">
     <p style="font-size:22px">
@@ -27,6 +27,7 @@ header:
   </div>
 </div>
 
+
 <br>
 
 ### We are hiring !!!
@@ -39,6 +40,7 @@ header:
 
 <div class="row">
   <div class="large-3 columns">
+   	<h7> </h7><br>
     {% include photo-postdoc.html %}
     <h7> </h7><br>
     <b>xxx</b>
@@ -46,13 +48,15 @@ header:
     <b>Ph.D.</b>
   </div>
   <div class="large-3 columns">
-	</div>
+      Ph.D. Students
+  </div>
   <div class="large-3 columns">
-	</div>
+      Undergraduates
+  </div>
   <div class="large-3 columns">
+      Alumni
   </div>
 </div>
-
 <br>
 
 #### Ph.D. Students
