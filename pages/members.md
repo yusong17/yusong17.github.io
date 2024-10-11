@@ -33,34 +33,3 @@ header:
 ### We are hiring !!!
 
 <br>
-
-#### Postdocs
-
-<br>
-
-<div class="row">
-  <div class="large-3 columns">
-   	<h7> </h7><br>
-    {% include photo-postdoc.html %}
-    <h7> </h7><br>
-    <b>xxx</b>
-    <h7> </h7><br>
-    <b>Ph.D.</b>
-  </div>
-  <div class="large-3 columns">
-      Ph.D. Students
-  </div>
-  <div class="large-3 columns">
-      Undergraduates
-  </div>
-  <div class="large-3 columns">
-      Alumni
-  </div>
-</div>
-<br>
-
-#### Ph.D. Students
-
-#### Undergraduates
-
-#### Alumni
