@@ -10,8 +10,6 @@ header:
 
 <br>
 
-#### PI
-
 <div class="row">
   <div class="large-4 columns">
       {% include photo-ys.html %}
@@ -19,7 +17,7 @@ header:
   </div>
   <div class="large-8 columns">
     <p style="font-size:22px">
-      <b>Yu Song</b>,&nbsp;&nbsp;Ph.D.,&nbsp;&nbsp;<u><a href="https://yusong17.github.io/mypaper/cv-yusong.pdf">CV</a></u>,&nbsp;&nbsp;<u><a href="https://yusong17.github.io/mypaper/bio.pdf">Bio</a></u><br>
+      <b>Yu SONG</b>,&nbsp;&nbsp;Ph.D.,&nbsp;&nbsp;<u><a href="https://yusong17.github.io/mypaper/cv-yusong.pdf">CV</a></u>,&nbsp;&nbsp;<u><a href="https://yusong17.github.io/mypaper/bio.pdf">Bio</a></u><br>
       <b>Presidential Assistant Professor</b><br>
         Department of Biomedical Engineering<br>
         City University of Hong Kong<br>
@@ -32,47 +30,34 @@ header:
 
 #### Postdocs
 
-<br>
-
 <div class="row">
   <div class="large-3 columns">
       <center>
     		{% include photo-postdoc.html %} 
-        <b>xxxx</b>
-        <h7> </h7><br>
-        Ph.D. xxx
+        <b>Ya ZHANG</b>
+       <br>
+        Ph.D. Chongqing University
 			</center>
   </div>
   <div class="large-3 columns">
      <center>
     		{% include photo-postdoc.html %} 
-        <h7> </h7><br>
-        <b>xxxx</b>
-        <h7> </h7><br>
-        Ph.D. xxx
+        <b></b><br>
 			</center>
   </div>
   <div class="large-3 columns">
           <center>
-    		{% include photo-postdoc.html %} 
-        <h7> </h7><br>
-        <b>xxxx</b>
-        <h7> </h7><br>
-        Ph.D. xxx
+    		{% include photo-postdoc-.html %} 
+        <b></b><br>
 			</center>
   </div>
   <div class="large-3 columns">
           <center>
-    		{% include photo-postdoc.html %} 
-        <h7> </h7><br>
-        <b>xxxx</b>
-        <h7> </h7><br>
-        Ph.D. xxx
+    		{% include photo-postdoc-.html %} 
+        <b></b><br>
 			</center>
   </div>
 </div>
-
-<br>
 
 #### PhD students
 
@@ -80,6 +65,32 @@ header:
 
 #### Undergraduates
 
-<br>
+<div class="row">
+  <div class="large-3 columns">
+      <center>
+    		{% include photo-postdoc-.html %} 
+        <b>Zhichen HUA</b><br>
+        Biomedical Engineering (CityU)
+			</center>
+  </div>
+  <div class="large-3 columns">
+     <center>
+    		{% include photo-postdoc-.html %} 
+        <b></b><br>
+			</center>
+  </div>
+  <div class="large-3 columns">
+          <center>
+    		{% include photo-postdoc-.html %} 
+        <b></b><br>
+			</center>
+  </div>
+  <div class="large-3 columns">
+          <center>
+    		{% include photo-postdoc-.html %} 
+        <b>xxxx</b><br>
+			</center>
+  </div>
+</div>
 
 #### Alumni
