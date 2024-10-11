@@ -11,10 +11,10 @@ header:
 <br>
 
 <div class="row">
-  <div class="large-5 columns">
+  <div class="large-4 columns">
     {% include photo-ys.html %}
   </div>
-  <div class="large-7 columns">
+  <div class="large-8 columns">
     <p style="font-size:22px">
       <b>Yu Song</b>,&nbsp;&nbsp;Ph.D.,&nbsp;&nbsp;<u><a href="https://yusong17.github.io/mypaper/cv-yusong.pdf">CV</a></u>,&nbsp;&nbsp;<u><a href="https://yusong17.github.io/mypaper/bio.pdf">Bio</a></u><br>
       <b>Presidential Assistant Professor</b><br>
@@ -35,7 +35,25 @@ header:
 
 #### Postdocs
 
+<br>
 
+<div class="row">
+  <div class="large-3 columns">
+    {% include photo-postdoc.html %}
+    <h7> </h7><br>
+    <b>xxx</b>
+    <h7> </h7><br>
+    <b>Ph.D.</b>
+  </div>
+  <div class="large-3 columns">
+	</div>
+  <div class="large-3 columns">
+	</div>
+  <div class="large-3 columns">
+  </div>
+</div>
+
+<br>
 
 #### Ph.D. Students
 
