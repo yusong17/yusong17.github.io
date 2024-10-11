@@ -10,6 +10,8 @@ header:
 
 <br>
 
+#### PI
+
 <div class="row">
   <div class="large-4 columns">
       {% include photo-ys.html %}
@@ -36,7 +38,6 @@ header:
   <div class="large-3 columns">
       <center>
     		{% include photo-postdoc.html %} 
-        <br>
         <b>xxxx</b>
         <h7> </h7><br>
         Ph.D. xxx
