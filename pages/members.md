@@ -33,16 +33,16 @@ header:
 <br>
 
 <div class="row">
-  <div class="large-4 columns">
+  <div class="large-3 columns">
       <center>
     		{% include photo-postdoc.html %} 
-        <h7> </h7><br>
+        <br>
         <b>xxxx</b>
         <h7> </h7><br>
         Ph.D. xxx
 			</center>
   </div>
-  <div class="large-4 columns">
+  <div class="large-3 columns">
      <center>
     		{% include photo-postdoc.html %} 
         <h7> </h7><br>
@@ -51,7 +51,7 @@ header:
         Ph.D. xxx
 			</center>
   </div>
-  <div class="large-4 columns">
+  <div class="large-3 columns">
           <center>
     		{% include photo-postdoc.html %} 
         <h7> </h7><br>
@@ -60,7 +60,7 @@ header:
         Ph.D. xxx
 			</center>
   </div>
-  <div class="large-4 columns">
+  <div class="large-3 columns">
           <center>
     		{% include photo-postdoc.html %} 
         <h7> </h7><br>
