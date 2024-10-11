@@ -17,7 +17,6 @@ header:
   <img src="/research/bioelec.jpg" width="720">
 </center>
 <details>
-
 <summary><h2>I. Skin-interfaced sweat biosensors◥</h2></summary>
 
 <center>
@@ -25,7 +24,6 @@ header:
 </center>
 <center><div style="color:orange; border-bottom: 1px solid #d9d9d9;display: inline-block;color: #999;padding: 8px;margin: 5px; margin-bottom: 30px"> 
 Laser-enabled flexible lab-on-the-skin for non-invasive metabolic and nutritional management (<i><b>Nature Biotechnology</b></i> 2020, 38, 217-224)
-
 </div> </center>
 
 <center>

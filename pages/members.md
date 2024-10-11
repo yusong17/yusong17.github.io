@@ -12,7 +12,7 @@ header:
 
 <div class="row">
   <div class="large-4 columns">
-      <img src="https://yusong17.github.io/yusonglab.github.io/images/drsong.png">
+      <img src="https://yusong17.github.io/yusonglab.github.io/images/ys.png">
   </div>
   <div class="large-8 columns">
     <p style="font-size:22px">
@@ -36,6 +36,8 @@ header:
 <div class="row">
   <div class="large-3 columns">
       Postdocs
+    {% include photo-alice.html %}
+    <h7> </h7><br>
   </div>
   <div class="large-3 columns">
       Ph.D. Students
@@ -47,3 +49,4 @@ header:
       Alumni
   </div>
 </div>
+
