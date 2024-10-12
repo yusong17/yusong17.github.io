@@ -11,7 +11,7 @@ header:
 
 <br>
 
-​	58. S Yin, D Yao, **Yu Song**, W Heng, X Ma, H Han, W Gao\*. Wearable and implantable soft robots, ***Chemical Reviews***, 2024. *in press*
+​	58. S Yin, D Yao, **Yu Song**, W Heng, X Ma, H Han, W Gao\*. [Wearable and implantable soft robots](https://pubs.acs.org/doi/full/10.1021/acs.chemrev.4c00513), ***Chemical Reviews***, 2024. [**Download PDF**](https://yusong17.github.io/mypaper/sk-cr.pdf).
 
 ​	57. W Heng, S Yin, J Min, C Wang, H Han, E Sani, J Li, **Yu Song**, H Rossiter, W Gao\*. [A smart mask for exhaled breath condensate harvesting and analysis](https://www.science.org/doi/10.1126/science.adn6471), ***Science***, 2024, 385, 954-961. [**Download PDF**](https://yusong17.github.io/mypaper/wz-sci.pdf).
 

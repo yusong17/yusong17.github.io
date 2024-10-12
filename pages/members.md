@@ -30,8 +30,6 @@ header:
 
 #### Postdoctoral scholars
 
-<br>
-
 <div class="row">
   <div class="large-3 columns">
       <center>
