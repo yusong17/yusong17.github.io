@@ -11,11 +11,11 @@ header:
 
 <br>
 
-​	58. S Yin, D Yao, **Yu Song**, W Heng, X Ma, H Han, W Gao\*. [Wearable and implantable soft robots](https://pubs.acs.org/doi/full/10.1021/acs.chemrev.4c00513), ***Chemical Reviews***, 2024, 10.1021/acs.chemrev.4c00513. [**Download PDF**](https://yusong17.github.io/mypaper/sk-cr.pdf).
-
-​	57. W Heng, S Yin, J Min, C Wang, H Han, E Sani, J Li, **Yu Song**, H Rossiter, W Gao\*. [A smart mask for exhaled breath condensate harvesting and analysis](https://www.science.org/doi/10.1126/science.adn6471), ***Science***, 2024, 385, 954-961. [**Download PDF**](https://yusong17.github.io/mypaper/wz-sci.pdf).
+​	58. W Heng, S Yin, J Min, C Wang, H Han, E Sani, J Li, **Yu Song**, H Rossiter, W Gao\*. [A smart mask for exhaled breath condensate harvesting and analysis](https://www.science.org/doi/10.1126/science.adn6471), ***Science***, 2024, 385, 954-961. [**Download PDF**](https://yusong17.github.io/mypaper/wz-sci.pdf).
 
 *Highlighted in "[Every breath you take, this mask will be watching your health](https://www.science.org/content/article/every-breath-you-take-mask-will-be-watching-your-health)", **Science**, Aug 2024.*
+
+​	57. S Yin, D Yao, **Yu Song**, W Heng, X Ma, H Han, W Gao\*. [Wearable and implantable soft robots](https://pubs.acs.org/doi/full/10.1021/acs.chemrev.4c00513), ***Chemical Reviews***, 2024, 124, 11585-11636. [**Download PDF**](https://yusong17.github.io/mypaper/sk-cr.pdf).
 
 ​	56. A Childs, B Mayol, J Lasalde-Ramírez, **Yu Song**, J  Sempionatto, W Gao\*. [Diving into Sweat: Advances, Challenges, and Future Directions in Wearable Sweat Sensing](https://pubs.acs.org/doi/full/10.1021/acsnano.4c10344), ***ACS Nano***, 2024, 18, 24605-24616. [**Download PDF**](https://yusong17.github.io/mypaper/acsnano-jrs.pdf).
 
