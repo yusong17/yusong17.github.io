@@ -51,7 +51,7 @@ header:
 * 2024/09: The 8th International Symposium of Flexible & Stretchable Electronics 2024, Wuhan.
 
 
-* 2024/09: Matter Forum: Wearable Electronics, Hong Kong.
+* 2024/09: Matter Forum: Wearable Electronics & Energy Storage, Hong Kong.
 
 
 * 2024/05: Shanghai Jiaotong University, Micro-Nano Electronics, Shanghai.
