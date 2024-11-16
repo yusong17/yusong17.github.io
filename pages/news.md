@@ -45,6 +45,9 @@ header:
 <br>
 
 
+* 2024/11: Fudan University, Materials Science, Shanghai.
+
+
 * 2024/11: International Conference on Information Technology and Materials 2024, Hong Kong.
 
 
