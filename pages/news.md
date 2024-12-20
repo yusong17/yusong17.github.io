@@ -45,6 +45,9 @@ header:
 <br>
 
 
+* 2024/12: 18th International Conference on Biomedical Engineering (ICBME 2024), Singapore.
+
+
 * 2024/11: Fudan University, Materials Science, Shanghai.
 
 
