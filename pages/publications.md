@@ -85,7 +85,7 @@ header:
 
 ​	40. Y Yang†, **Yu Song†**, X Bo†, J Min, O Pak, L Zhu, M Wang, A Kogan, H Zhang, T Hsiai, Z Li, W Gao\*. [A laser-engraved wearable sensor for sensitive detection of uric acid and tyrosine in sweat](https://www.nature.com/articles/s41587-019-0321-x), ***Nature Biotechnology***, 2020, 38, 217-224. [**Download PDF**](https://yusong17.github.io/mypaper/nbt.pdf).
 
-*Highlighted in [Caltech News](https://www.caltech.edu/about/news/wearable-sweat-sensor-detects-gout-causing-compounds), [Physics World](https://physicsworld.com/a/can-a-simple-sweat-sensor-replace-blood-tests/), [Xinhua](http://www.xinhuanet.com/english/2019-11/27/c_138587357.htm), [Science Daily](https://www.sciencedaily.com/releases/2020/02/200226134124.htm), etc.*
+*Highlighted in [Caltech News](https://www.caltech.edu/about/news/wearable-sweat-sensor-detects-gout-causing-compounds), [Physics World](https://physicsworld.com/a/can-a-simple-sweat-sensor-replace-blood-tests/), [Xinhua](http://www.xinhuanet.com/english/2019-11/27/c_138587357.htm), [Science Daily](https://www.sciencedaily.com/releases/2019/11/191125153011.htm), etc.*
 
 *Highlighted in "[Mass-producing wearable sensors: No sweat](https://www.science.org/doi/10.1126/scitranslmed.aaz9766)", Editor's Choice, **Science Translational Medicine**, 2019, 11, eaaz9766.*
 
