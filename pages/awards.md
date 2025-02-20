@@ -17,13 +17,31 @@ header:
 
 <div style="display: flex;">
 <div style="flex: 3; border: 1px solid white; margin: 1px; padding: 1px;">
- <p><b>▪   </b>2024</p></div>
+ <p><b>▪   </b>2025</p></div>
+
 
 
 
 
 <div style="flex: 16; border: 1px solid white; margin: 1px; padding: 1px;">
-  <p><b>Outstanding Young Scientist Award</b>, Microsystems & Nanoengineering</p></div>
+  <p><b>Young Investigator Award</b>, <i>Nanomaterials-</i>-<a href="https://www.mdpi.com/journal/nanomaterials/awards/2739">list</a></p></div>
+
+
+
+</div>
+
+
+
+<div style="display: flex;">
+<div style="flex: 3; border: 1px solid white; margin: 1px; padding: 1px;">
+ <p><b>▪   </b>2024</p></div>
+
+
+
+
+
+<div style="flex: 16; border: 1px solid white; margin: 1px; padding: 1px;">
+  <p><b>Outstanding Young Scientist Award</b>, <i>Microsystems & Nanoengineering</i></p></div>
 
 
 
@@ -55,7 +73,8 @@ header:
 
 
 <div style="flex: 16; border: 1px solid white; margin: 1px; padding: 1px;">
-<p><b>Outstanding Reviewer Award</b>, Microsystems & Nanoengineering</p></div>
+  <p><b>Outstanding Reviewer Award</b>, <i>Microsystems & Nanoengineering</i></p></div>
+
 
 
 </div>
@@ -67,9 +86,9 @@ header:
 
 
 
-
 <div style="flex: 16; border: 1px solid white; margin: 1px; padding: 1px;">
-<p><b>2024 Travel Award</b>, Sensors Journal-<a href="https://www.mdpi.com/journal/sensors/awards/2218">full list</a></p></div>
+  <p><b>2024 Travel Award</b>, <i>Sensors</i>-<a href="https://www.mdpi.com/journal/sensors/awards/2218">list</a></p></div>
+
 
 
 </div>

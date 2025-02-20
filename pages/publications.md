@@ -11,7 +11,9 @@ header:
 
 <br>
 
-​	59. Y Zhang, H Chen, **Yu Song**, H Rossiter, W Gao\*. [Wearable healthcare monitoring and therapeutic bioelectronics](https://www.sciencedirect.com/science/article/pii/S2950235725000046), ***Wearable Electronics***, 2025, 2, 18-22. [**Download PDF**](https://yusong17.github.io/mypaper/yz-we.pdf).
+​	60. M Gu, C Guo, **Yu Song\***. Wearable healthcare monitoring and therapeutic bioelectronics, ***Matter***, 2025, *in press*.
+
+​	59. Y Zhang, H Chen, **Yu Song\***. [Wearable healthcare monitoring and therapeutic bioelectronics](https://www.sciencedirect.com/science/article/pii/S2950235725000046), ***Wearable Electronics***, 2025, 2, 18-22. [**Download PDF**](https://yusong17.github.io/mypaper/yz-we.pdf).
 
 ​	58. W Heng, S Yin, J Min, C Wang, H Han, E Sani, J Li, **Yu Song**, H Rossiter, W Gao\*. [A smart mask for exhaled breath condensate harvesting and analysis](https://www.science.org/doi/10.1126/science.adn6471), ***Science***, 2024, 385, 954-961. [**Download PDF**](https://yusong17.github.io/mypaper/wz-sci.pdf).
 
