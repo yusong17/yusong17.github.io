@@ -56,7 +56,7 @@ header:
   </div>
 </div>
 
-#### PhD students
+#### Graduate students
 
 <br>
 

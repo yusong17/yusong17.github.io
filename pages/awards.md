@@ -22,9 +22,9 @@ header:
 
 
 
-
 <div style="flex: 16; border: 1px solid white; margin: 1px; padding: 1px;">
-  <p><b>Young Investigator Award</b>, <i>Nanomaterials-</i>-<a href="https://www.mdpi.com/journal/nanomaterials/awards/2739">list</a></p></div>
+  <p><b>Young Investigator Award</b>, <i>Nanomaterials-</i>-<a href="https://www.mdpi.com/journal/nanomaterials/awards/2739">full list</a></p></div>
+
 
 
 
@@ -87,7 +87,8 @@ header:
 
 
 <div style="flex: 16; border: 1px solid white; margin: 1px; padding: 1px;">
-  <p><b>2024 Travel Award</b>, <i>Sensors</i>-<a href="https://www.mdpi.com/journal/sensors/awards/2218">list</a></p></div>
+  <p><b>2024 Travel Award</b>, <i>Sensors</i>-<a href="https://www.mdpi.com/journal/sensors/awards/2218">full list</a></p></div>
+
 
 
 
