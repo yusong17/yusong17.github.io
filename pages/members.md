@@ -60,6 +60,7 @@ header:
 </div>
 
 
+
 #### Graduate students
 
 <div class="row">
@@ -68,7 +69,7 @@ header:
     		{% include photo-mengxi.html %} 
         <b>Mengxi Gu</b>
        <br>
-        PhD Student
+        Ph.D. Student
         <br>
         M.S. CAS SIAT
     </center>
@@ -88,7 +89,7 @@ header:
          {% include photo-jiaxuan.html %}
         <b>Jiaxuan Guan</b>
         <br>
-        MSc Student
+        M.S. Student
         <br>
         B.S. WUT
 			</center>
@@ -99,6 +100,7 @@ header:
 			</center>
   </div>
 </div>
+
 
 #### Undergraduates
 
@@ -127,4 +129,3 @@ header:
 			</center>
   </div>
 </div>
-
