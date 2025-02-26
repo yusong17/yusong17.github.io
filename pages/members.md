@@ -41,7 +41,10 @@ header:
   </div>
   <div class="large-3 columns">
      <center>
-        <b></b><br>
+       {% include photo-changhao.html %}
+        <b>Changhao Dai</b>
+       <br>
+       Ph.D. Fudan University
 			</center>
   </div>
   <div class="large-3 columns">
@@ -56,11 +59,72 @@ header:
   </div>
 </div>
 
+
 #### Graduate students
 
-<br>
+<div class="row">
+  <div class="large-3 columns">
+      <center>
+    		{% include photo-mengxi.html %} 
+        <b>Mengxi Gu</b>
+       <br>
+        PhD Student
+        <br>
+        M.S. CAS SIAT
+    </center>
+  </div>
+  <div class="large-3 columns">
+     <center>
+       {% include photo-zhongzeng.html %}
+        <b>Zhongzeng Zhou</b>
+       <br>
+       Visiting Student
+       <br>
+       Shenzhen University
+			</center>
+  </div>
+  <div class="large-3 columns">
+       <center>
+         {% include photo-jiaxuan.html %}
+        <b>Jiaxuan Guan</b>
+        <br>
+        MSc Student
+        <br>
+        B.S. Wuhan Institute of Technology
+			</center>
+  </div>
+  <div class="large-3 columns">
+          <center>
+        <b></b><br>
+			</center>
+  </div>
+</div>
 
 #### Undergraduates
 
-<br>
+<div class="row">
+  <div class="large-3 columns">
+      <center>
+    		{% include photo-zhichen.html %} 
+        <b>Zhichen Hua</b>
+       <br>
+        CityU BME
+			</center>
+  </div>
+  <div class="large-3 columns">
+          <center>
+        <b></b><br>
+			</center>
+  </div>
+  <div class="large-3 columns">
+          <center>
+        <b></b><br>
+			</center>
+  </div>
+  <div class="large-3 columns">
+          <center>
+        <b></b><br>
+			</center>
+  </div>
+</div>
 
