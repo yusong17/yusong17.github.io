@@ -90,7 +90,7 @@ header:
         <br>
         MSc Student
         <br>
-        B.S. Wuhan Institute of Technology
+        B.S. WUT
 			</center>
   </div>
   <div class="large-3 columns">
