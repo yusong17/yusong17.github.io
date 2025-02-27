@@ -71,7 +71,7 @@ header:
        <br>
         Ph.D. Student
         <br>
-        M.S. CAS SIAT
+        M.S. UCAS SIAT
     </center>
   </div>
   <div class="large-3 columns">
