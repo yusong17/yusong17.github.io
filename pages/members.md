@@ -42,7 +42,7 @@ header:
   <div class="large-3 columns">
      <center>
        {% include photo-changhao.html %}
-        <b>Changhao Dai</b>
+        <b>Changhao DAI</b>
        <br>
        Ph.D. Fudan University
 			</center>
@@ -61,13 +61,14 @@ header:
 
 
 
+
 #### Graduate students
 
 <div class="row">
   <div class="large-3 columns">
       <center>
     		{% include photo-mengxi.html %} 
-        <b>Mengxi Gu</b>
+        <b>Mengxi GU</b>
        <br>
         Ph.D. Student
         <br>
@@ -77,7 +78,7 @@ header:
   <div class="large-3 columns">
      <center>
        {% include photo-zhongzeng.html %}
-        <b>Zhongzeng Zhou</b>
+        <b>Zhongzeng ZHOU</b>
        <br>
        Visiting Student
        <br>
@@ -87,7 +88,7 @@ header:
   <div class="large-3 columns">
        <center>
          {% include photo-jiaxuan.html %}
-        <b>Jiaxuan Guan</b>
+        <b>Jiaxuan GUAN</b>
         <br>
         M.S. Student
         <br>
@@ -102,13 +103,14 @@ header:
 </div>
 
 
+
 #### Undergraduates
 
 <div class="row">
   <div class="large-3 columns">
       <center>
     		{% include photo-zhichen.html %} 
-        <b>Zhichen Hua</b>
+        <b>Zhichen HUA</b>
        <br>
         CityU BME
 			</center>
