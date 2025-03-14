@@ -28,7 +28,7 @@ We always welcome **undergraduate researchers** from all backgrounds at CityU to
 
 ### Research Assistant / Visiting Student (1-2 positions starting Spring 2025)
 
-Research assistant / visitng student applicants should obtain the BSc or MSc degree and are required to fully work continuously no less than half years. The candidate could assist PI to deal with research projects and lab maintenance, and are recommended to pursue Ph.D. degree at the lab or overseas with great performance. The salary could be negotiated after the interview with additional allowance.
+Research assistant / visitng student applicants should obtain the BSc or MSc degree and are required to fully work continuously no less than half years. The candidate could assist PI to deal with research projects and lab maintenance, and are recommended to pursue Ph.D. degree at lab or overseas with great performance. The salary could be negotiated after the interview with additional allowance.
 
 <br>
 
