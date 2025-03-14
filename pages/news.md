@@ -45,8 +45,13 @@ header:
 <br>
 
 
-* 2024/12: 18th International Conference on Biomedical Engineering (ICBME 2024), Singapore.
+* 2025/03: Hong Kong University of Science and Technology, Smart Manufacturing, Guangzhou.
 
+
+* 2025/01: Southern University of Science and Technology, Materials Science & Engineering, Shenzhen.
+
+
+* 2024/12: 18th International Conference on Biomedical Engineering (ICBME 2024), Singapore.
 
 * 2024/11: Fudan University, Materials Science, Shanghai.
 
@@ -68,8 +73,8 @@ header:
 
 * 2024/05: Zhejiang University, Biomedical Engineering, Hangzhou.
 
-* 2024/05: Huazhong University of Science and Technology, Integrated Circuits, Wuhan.
 
+* 2024/05: Huazhong University of Science and Technology, Integrated Circuits, Wuhan.
 
 * 2024/05: Harbin Institute of Technology, Optical Engineering, Weihai.
 
