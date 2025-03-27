@@ -86,6 +86,16 @@ header:
 			</center>
   </div>
   <div class="large-3 columns">
+     <center>
+       {% include photo-dingli.html %}
+        <b>Ding LI</b>
+       <br>
+       Visiting Student
+       <br>
+       Tsinghua University
+			</center>
+  </div>
+  <div class="large-3 columns">
        <center>
          {% include photo-jiaxuan.html %}
         <b>Jiaxuan GUAN</b>
