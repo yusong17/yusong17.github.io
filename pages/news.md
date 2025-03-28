@@ -45,13 +45,16 @@ header:
 <br>
 
 
+* 2025/03: The 4th IEEE International Conference on Micro/Nano Sensors for AI, Healthcare, and Robotics (NSENS), Kuala Lumpur.
+
+
 * 2025/03: Hong Kong University of Science and Technology, Smart Manufacturing, Guangzhou.
 
 
 * 2025/01: Southern University of Science and Technology, Materials Science & Engineering, Shenzhen.
 
 
-* 2024/12: 18th International Conference on Biomedical Engineering (ICBME 2024), Singapore.
+* 2024/12: The 18th International Conference on Biomedical Engineering (ICBME 2024), Singapore.
 
 * 2024/11: Fudan University, Materials Science, Shanghai.
 
@@ -62,7 +65,7 @@ header:
 * 2024/09: The 8th International Symposium of Flexible & Stretchable Electronics 2024, Wuhan.
 
 
-* 2024/09: Matter Forum: Wearable Electronics & Energy Storage, Hong Kong.
+* 2024/09: *Matter* Forum: Wearable Electronics & Energy Storage, Hong Kong.
 
 
 * 2024/05: Shanghai Jiaotong University, Micro-Nano Electronics, Shanghai.
@@ -76,8 +79,8 @@ header:
 
 * 2024/05: Huazhong University of Science and Technology, Integrated Circuits, Wuhan.
 
-* 2024/05: Harbin Institute of Technology, Optical Engineering, Weihai.
 
+* 2024/05: Harbin Institute of Technology, Optical Engineering, Weihai.
 
 * 2024/02: Shenzhen University, Biomedical Engineering, Shenzhen.
 
