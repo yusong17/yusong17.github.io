@@ -14,6 +14,8 @@ header:
 <br>
 
 
+- 2025/05: Our review paper on multimodal bioelectronics for health management was published at ***[Matter](https://doi.org/10.1016/j.matt.2025.102048)***.
+
 - 2024/08: Dr Song's co-author paper on smart mask for exhaled breath condensate harvesting and analysis was published at ***[Science](https://www.science.org/doi/10.1126/science.adn6471)***.
 
 
@@ -45,7 +47,17 @@ header:
 <br>
 
 
+* 2025/04: China Smart Wearable Technology Innovation Forum, Qingdao.
+
+
+* 2025/04: University of Science and Technology of China, iMED, Suzhou.
+
+* 2025/04: CityU-NUS Joint Symposium 2025, Hong Kong.
+
 * 2025/03: The 4th IEEE International Conference on Micro/Nano Sensors for AI, Healthcare, and Robotics (NSENS), Kuala Lumpur.
+
+
+* 2025/03: CityU-SERI Joint Symposium 2025, Hong Kong.
 
 
 * 2025/03: Hong Kong University of Science and Technology, Smart Manufacturing, Guangzhou.

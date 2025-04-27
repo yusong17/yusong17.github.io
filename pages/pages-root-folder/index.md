@@ -51,6 +51,8 @@ homepage: true
 <div class="row">
   <div class="large-6 columns">
     <b><h3>Recent publications</h3></b><br>
+    M Gu, C Guo, <b>Yu Song</b>*. <a href="https://doi.org/10.1016/j.matt.2025.102048">Multimodal bioelectronics: a pathway to digital health management</a>, <i><b>Matter</b></i>, 2025, <i>in press</i>.
+<br><br>
     W Heng, S Yin, J Min, C Wang, H Han, E Sani, J Li, <b>Yu Song</b>, H Rossiter, W Gao*. <a href="https://www.science.org/doi/10.1126/science.adn6471">A smart mask for exhaled breath condensate harvesting and analysis</a>, <i><b>Science</b></i>, 2024, 385, 954-961.<br><br>
     C Xu†, <b>Yu Song†</b>, et al., W Gao*, <a href="https://www.nature.com/articles/s41928-023-01116-6">An artificial intelligence-reinforced physicochemical sensing electronic skin for stress response monitoring</a>, <i><b>Nature Electronics</b></i>, 2024, 7, 168-179.<br><br>
     <b>Yu Song</b>, et al., W Gao*, <a href="https://www.science.org/doi/full/10.1126/sciadv.adi6492">3D-printed epifluidic electronic skin for machine learning-powered multimodal health surveillance</a>, <i><b>Science Advances</b></i>, 2023, 9, eadi6492.<br><br>
@@ -60,7 +62,9 @@ homepage: true
   </div>   
   <div class="large-6 columns">
     <b><h3>Group news</h3></b><br>
-    <b>2024</b><br>
+    <b>2025</b><br>
+		May, our review paper on multimodal bioelectronics for health management was published in <b><i>Matter</i></b>. Congrats to Mengxi! <u><a href="https://doi.org/10.1016/j.matt.2025.102048">Link</a></u><br><h8> </h8><br>
+    <center> <img src="images/logo/matter.jpg" width="160"> </center><br> <b>2024</b><br>
     Aug, Dr. Song‘s co-author paper on smart mask for exhaled breath condensate analysis was published in <b><i>Science</i></b>. <u><a href="https://www.science.org/doi/10.1126/science.adn6471">Link</a></u><br><h8> </h8><br>
     <center> <img src="images/logo/sci-2.png" width="160"> </center><br>
     May, Dr. Song was listed in the <b>Forbes 30 under 30 Asia</b> Healthcare & Science category. <u><a href="https://www.forbes.com/30-under-30/2024/asia/healthcare-science">Link</a></u><br><h8> </h8><br>
