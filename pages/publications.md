@@ -11,7 +11,7 @@ header:
 
 <br>
 
-​	60. M Gu, C Guo, **Yu Song\***. ﻿[Multimodal bioelectronics: a pathway to digital health management](https://doi.org/10.1016/j.matt.2025.102048), ***Matter***, 2025, *in press*.
+​	60. M Gu, C Guo, **Yu Song\***. ﻿[Multimodal bioelectronics: a pathway to digital health management](https://www.sciencedirect.com/science/article/pii/S2590238525000918), ***Matter***, 2025, *in press*.
 
 ​	59. Y Zhang, H Chen, **Yu Song\***. [Wearable healthcare monitoring and therapeutic bioelectronics](https://www.sciencedirect.com/science/article/pii/S2950235725000046), ***Wearable Electronics***, 2025, 2, 18-22. [**Download PDF**](https://yusong17.github.io/mypaper/yz-we.pdf).
 
