@@ -51,7 +51,7 @@ homepage: true
 <div class="row">
   <div class="large-6 columns">
     <b><h3>Recent publications</h3></b><br>
-    M Gu, C Guo, <b>Yu Song</b>*. <a href="https://www.sciencedirect.com/science/article/pii/S2590238525000918">Multimodal bioelectronics: a pathway to digital health management</a>, <i><b>Matter</b></i>, 2025, <i>in press</i>.
+    M Gu, C Guo, <b>Yu Song</b>*. <a href="https://www.sciencedirect.com/science/article/pii/S2590238525000918">Multimodal bioelectronics: a pathway to digital health management</a>, <i><b>Matter</b></i>, 2025, 8, 102048.
 <br><br>
     W Heng, S Yin, J Min, C Wang, H Han, E Sani, J Li, <b>Yu Song</b>, H Rossiter, W Gao*. <a href="https://www.science.org/doi/10.1126/science.adn6471">A smart mask for exhaled breath condensate harvesting and analysis</a>, <i><b>Science</b></i>, 2024, 385, 954-961.<br><br>
     C Xu†, <b>Yu Song†</b>, et al., W Gao*, <a href="https://www.nature.com/articles/s41928-023-01116-6">An artificial intelligence-reinforced physicochemical sensing electronic skin for stress response monitoring</a>, <i><b>Nature Electronics</b></i>, 2024, 7, 168-179.<br><br>
