@@ -87,12 +87,12 @@ header:
   </div>
   <div class="large-3 columns">
      <center>
-       {% include photo-dingli.html %}
-        <b>Ding LI</b>
+       {% include photo-xiujuan.html %}
+        <b>Xiujuan HU</b>
        <br>
-       Visiting Student
+       Ph.D. Student (PHY)
        <br>
-       Tsinghua University
+       M.S. HUST
 			</center>
   </div>
   <div class="large-3 columns">
@@ -114,6 +114,7 @@ header:
 
 
 
+
 #### Undergraduates
 
 <div class="row">
@@ -127,7 +128,12 @@ header:
   </div>
   <div class="large-3 columns">
           <center>
-        <b></b><br>
+            {% include photo-vinn.html %} 
+            <b>Vincenza MAO</b>
+            <br>
+            Summer Exchange
+            <br>
+            University of Toronto
 			</center>
   </div>
   <div class="large-3 columns">
@@ -141,3 +147,4 @@ header:
 			</center>
   </div>
 </div>
+
