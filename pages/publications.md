@@ -11,11 +11,15 @@ header:
 
 <br>
 
-​	60. M Gu, C Guo, **Yu Song\***. ﻿[Multimodal bioelectronics: a pathway to digital health management](https://www.sciencedirect.com/science/article/pii/S2590238525000918), ***Matter***, 2025, 8, 102048. [**Download PDF**](https://yusong17.github.io/mypaper/mx-matter.pdf).
+​	61. M Gu, C Guo, **Yu Song\***. ﻿[Multimodal bioelectronics: a pathway to digital health management](https://www.sciencedirect.com/science/article/pii/S2590238525000918), ***Matter***, 2025, 8, 102048. [**Download PDF**](https://yusong17.github.io/mypaper/mx-matter.pdf).
 
-​	59. Y Zhang, H Chen, **Yu Song\***. [Wearable healthcare monitoring and therapeutic bioelectronics](https://www.sciencedirect.com/science/article/pii/S2950235725000046), ***Wearable Electronics***, 2025, 2, 18-22. [**Download PDF**](https://yusong17.github.io/mypaper/yz-we.pdf).
+​	60. Y Zhang, H Chen, **Yu Song\***. [Wearable healthcare monitoring and therapeutic bioelectronics](https://www.sciencedirect.com/science/article/pii/S2950235725000046), ***Wearable Electronics***, 2025, 2, 18-22. [**Download PDF**](https://yusong17.github.io/mypaper/yz-we.pdf).
 
 **Before Joining CityU**
+
+​	59. Y Choi, P Jin, S Lee, **Yu Song**, R Tay, G Kim, J Yoo, H Han, J Yeom, J Cho, D Kim, W Gao\*. [All-printed chip-less wearable neuromorphic system for multimodal physicochemical health monitoring](https://www.nature.com/articles/s41467-025-60854-7), ***Nature Communications***, 2025, 16, 5689. [**Download PDF**](https://yusong17.github.io/mypaper/ys-nc.pdf).
+
+*Highlighted in "[Every breath you take, this mask will be watching your health](https://www.science.org/content/article/every-breath-you-take-mask-will-be-watching-your-health)", **Science**, Aug 2024.*
 
 ​	58. W Heng, S Yin, J Min, C Wang, H Han, E Sani, J Li, **Yu Song**, H Rossiter, W Gao\*. [A smart mask for exhaled breath condensate harvesting and analysis](https://www.science.org/doi/10.1126/science.adn6471), ***Science***, 2024, 385, 954-961. [**Download PDF**](https://yusong17.github.io/mypaper/wz-sci.pdf).
 
