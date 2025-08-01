@@ -63,8 +63,11 @@ homepage: true
   <div class="large-6 columns">
     <b><h3>Group news</h3></b><br>
     <b>2025</b><br>
-		May, our review paper on multimodal bioelectronics for health management was published in <b><i>Matter</i></b>. Congrats to Mengxi! <u><a href="https://www.sciencedirect.com/science/article/pii/S2590238525000918">Link</a></u><br><h8> </h8><br>
-    <center> <img src="images/logo/matter.png" width="160"> </center><br> <b>2024</b><br>
+    Jul, Dr. Song is selected for <b>Big-on-Small award</b> on MARSS2025 conference. <u><a href="https://marss-conference.org/awards/big-on-small-award/big-on-small-award-nominations/">Link</a></u><br><h8> </h8><br>
+    <center> <img src="images/logo/MARSS.png" width="160"> </center><br>
+     May, our review paper on multimodal bioelectronics for health management was published in <b><i>Matter</i></b>. Congrats to Mengxi! <u><a href="https://www.sciencedirect.com/science/article/pii/S2590238525000918">Link</a></u><br><h8> </h8><br>
+    <center> <img src="images/logo/matter.png" width="160"> </center><br> 
+    <b>2024</b><br>
     Aug, Dr. Song‘s co-author paper on smart mask for exhaled breath condensate analysis was published in <b><i>Science</i></b>. <u><a href="https://www.science.org/doi/10.1126/science.adn6471">Link</a></u><br><h8> </h8><br>
     <center> <img src="images/logo/sci-2.png" width="160"> </center><br>
     May, Dr. Song was listed in the <b>Forbes 30 under 30 Asia</b> Healthcare & Science category. <u><a href="https://www.forbes.com/30-under-30/2024/asia/healthcare-science">Link</a></u><br><h8> </h8><br>
