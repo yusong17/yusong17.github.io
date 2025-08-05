@@ -22,9 +22,9 @@ header:
 
 
 
-
 <div style="flex: 16; border: 1px solid white; margin: 1px; padding: 1px;">
-  <p><b>Big-on-Small Award</b>, <i>MARSS 2025 Conference</i></p></div>
+  <p><b>Big-on-Small Award</b>, <a href="https://marss-conference.org/awards/winner_of_big-on-small_award/"><i>MARSS 2025 Conference</i></a></p></div>
+
 
 
 

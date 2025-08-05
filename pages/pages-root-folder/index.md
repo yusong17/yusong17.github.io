@@ -63,7 +63,7 @@ homepage: true
   <div class="large-6 columns">
     <b><h3>Group news</h3></b><br>
     <b>2025</b><br>
-    Jul, Dr. Song was selected for <b>Big-on-Small award</b> on MARSS2025 conference. <u><a href="https://marss-conference.org/awards/big-on-small-award/big-on-small-award-nominations/">Link</a></u><br><h8> </h8><br>
+    Jul, Dr. Song was selected for <b>Big-on-Small award</b> on MARSS2025 conference. <u><a href="https://marss-conference.org/awards/winner_of_big-on-small_award/">Link</a></u><br><h8> </h8><br>
     <center> <img src="images/logo/MARSS.png" width="160"> </center><br>
      May, our review paper on multimodal bioelectronics for health management was published in <b><i>Matter</i></b>. Congrats to Mengxi! <u><a href="https://www.sciencedirect.com/science/article/pii/S2590238525000918">Link</a></u><br><h8> </h8><br>
     <center> <img src="images/logo/matter.png" width="160"> </center><br> 
