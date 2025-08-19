@@ -77,6 +77,46 @@ header:
   </div>
   <div class="large-3 columns">
      <center>
+       {% include photo-.html %}
+        <b>Wanyu ZHANG</b>
+       <br>
+       Ph.D. Student (HKPFS)
+       <br>
+       M.S. Shandong University
+			</center>
+  </div>
+   <div class="large-3 columns">
+     <center>
+       {% include photo-.html %}
+        <b>Lufeng TIAN</b>
+       <br>
+       Ph.D. Student
+       <br>
+       M.S. Beihang University
+			</center>
+  </div>
+  <div class="large-3 columns">
+     <center>
+       {% include photo-.html %}
+        <b>Huiyanchen LI</b>
+       <br>
+       Ph.D. Student
+       <br>
+       M.S. Beihang University
+			</center>
+  </div>
+  <div class="large-3 columns">
+     <center>
+       {% include photo-.html %}
+        <b>Yuqi WANG</b>
+       <br>
+       Ph.D. Student
+       <br>
+       B.S. SUSTech
+			</center>
+  </div>
+  <div class="large-3 columns">
+     <center>
        {% include photo-zhongzeng.html %}
         <b>Zhongzeng ZHOU</b>
        <br>
@@ -96,21 +136,12 @@ header:
 			</center>
   </div>
   <div class="large-3 columns">
-       <center>
-         {% include photo-jiaxuan.html %}
-        <b>Jiaxuan GUAN</b>
-        <br>
-        M.S. Student
-        <br>
-        B.S. WUT
-			</center>
-  </div>
-  <div class="large-3 columns">
           <center>
         <b></b><br>
 			</center>
   </div>
 </div>
+
 
 
 
@@ -128,12 +159,7 @@ header:
   </div>
   <div class="large-3 columns">
           <center>
-            {% include photo-vinn.html %} 
-            <b>Vincenza MAO</b>
-            <br>
-            Summer Exchange
-            <br>
-            University of Toronto
+            <b></b><br>
 			</center>
   </div>
   <div class="large-3 columns">
@@ -147,6 +173,11 @@ header:
 			</center>
   </div>
 </div>
+
 #### Almuni
 
 **Ding LI** - Visiting Student - Tsinghua University Ph.D. Student
+
+**Jiaxuan GUAN** - MSc Student
+
+**Vincenza MAO** - Summer Exchange - University of Toronto
