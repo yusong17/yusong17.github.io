@@ -77,7 +77,7 @@ header:
   </div>
   <div class="large-3 columns">
      <center>
-       {% include photo-.html %}
+       {% include photo-mengxi.html %}
         <b>Wanyu ZHANG</b>
        <br>
        Ph.D. Student (HKPFS)
@@ -87,7 +87,7 @@ header:
   </div>
    <div class="large-3 columns">
      <center>
-       {% include photo-.html %}
+       {% include photo-mengxi.html %}
         <b>Lufeng TIAN</b>
        <br>
        Ph.D. Student
@@ -97,7 +97,7 @@ header:
   </div>
   <div class="large-3 columns">
      <center>
-       {% include photo-.html %}
+       {% include photo-mengxi.html %}
         <b>Huiyanchen LI</b>
        <br>
        Ph.D. Student
@@ -107,7 +107,7 @@ header:
   </div>
   <div class="large-3 columns">
      <center>
-       {% include photo-.html %}
+       {% include photo-mengxi.html %}
         <b>Yuqi WANG</b>
        <br>
        Ph.D. Student
