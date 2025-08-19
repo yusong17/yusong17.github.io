@@ -147,6 +147,7 @@ header:
 
 
 
+
 #### Undergraduates
 
 <div class="row">
@@ -177,7 +178,7 @@ header:
 
 #### Almuni
 
-**Ding LI** - Visiting Student - Tsinghua University Ph.D. Student
+<br><br>Ding LI** - Visiting Student - Tsinghua University Ph.D. Student
 
 **Jiaxuan GUAN** - MSc Student
 
