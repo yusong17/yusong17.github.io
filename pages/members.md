@@ -115,6 +115,16 @@ header:
        B.S. SUSTech
 			</center>
   </div>
+   <div class="large-3 columns">
+     <center>
+       {% include photo-xiujuan.html %}
+        <b>Xiujuan HU</b>
+       <br>
+       Ph.D. Student (PHY)
+       <br>
+       M.S. HUST
+			</center>
+  </div>
   <div class="large-3 columns">
      <center>
        {% include photo-zhongzeng.html %}
@@ -126,21 +136,12 @@ header:
 			</center>
   </div>
   <div class="large-3 columns">
-     <center>
-       {% include photo-xiujuan.html %}
-        <b>Xiujuan HU</b>
-       <br>
-       Ph.D. Student (PHY)
-       <br>
-       M.S. HUST
-			</center>
-  </div>
-  <div class="large-3 columns">
           <center>
         <b></b><br>
 			</center>
   </div>
 </div>
+
 
 
 
