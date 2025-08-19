@@ -11,6 +11,8 @@ header:
 
 <br>
 
+​	62. Z Hua, C Dai, Y Yang, **Yu Song\***. ﻿Wearable bioelectronics for cancer theranostics, ***Microsystems & Nanoengineering***, 2025, *in press*.
+
 ​	61. M Gu, C Guo, **Yu Song\***. ﻿[Multimodal bioelectronics: a pathway to digital health management](https://www.sciencedirect.com/science/article/pii/S2590238525000918), ***Matter***, 2025, 8, 102048. [**Download PDF**](https://yusong17.github.io/mypaper/mx-matter.pdf).
 
 ​	60. Y Zhang, H Chen, **Yu Song\***. [Wearable healthcare monitoring and therapeutic bioelectronics](https://www.sciencedirect.com/science/article/pii/S2950235725000046), ***Wearable Electronics***, 2025, 2, 18-22. [**Download PDF**](https://yusong17.github.io/mypaper/yz-we.pdf).
