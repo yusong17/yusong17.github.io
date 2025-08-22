@@ -97,12 +97,12 @@ header:
   </div>
   <div class="large-3 columns">
      <center>
-       {% include photo-mengxi.html %}
+       {% include photo-lihui.html %}
         <b>Huiyanchen LI</b>
        <br>
        Ph.D. Student
        <br>
-       M.S. Beihang University
+       B.S. Xi'an Jiaotong University
 			</center>
   </div>
   <div class="large-3 columns">
