@@ -77,7 +77,7 @@ header:
   </div>
   <div class="large-3 columns">
      <center>
-       {% include photo-mengxi.html %}
+       {% include photo-wanyu.html %}
         <b>Wanyu ZHANG</b>
        <br>
        Ph.D. Student (HKPFS)
@@ -87,7 +87,7 @@ header:
   </div>
    <div class="large-3 columns">
      <center>
-       {% include photo-mengxi.html %}
+       {% include photo-lufeng.html %}
         <b>Lufeng TIAN</b>
        <br>
        Ph.D. Student
