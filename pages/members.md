@@ -178,7 +178,7 @@ header:
 
 #### Almuni
 
-<br><br>Ding LI** - Visiting Student - Tsinghua University Ph.D. Student
+<br><br>**Ding LI** - Visiting Student - Tsinghua University Ph.D. Student
 
 **Jiaxuan GUAN** - MSc Student
 
