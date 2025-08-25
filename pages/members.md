@@ -107,7 +107,7 @@ header:
   </div>
   <div class="large-3 columns">
      <center>
-       {% include photo-mengxi.html %}
+       {% include photo-yuqi.html %}
         <b>Yuqi WANG</b>
        <br>
        Ph.D. Student
