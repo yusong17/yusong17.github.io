@@ -11,15 +11,19 @@ header:
 
 <br>
 
-​	62. Z Hua, C Dai, Y Yang, **Yu Song\***. ﻿Wearable bioelectronics for cancer theranostics, ***Microsystems & Nanoengineering***, 2025, *11*, 180. [**Download PDF**](https://yusong17.github.io/mypaper/zc-mine.pdf).
+​	63. Z Hua, C Dai, Y Yang, **Yu Song\***. ﻿[Wearable bioelectronics for cancer theranostics](https://www.nature.com/articles/s41378-025-01048-5), ***Microsystems & Nanoengineering***, 2025, *11*, 180. [**Download PDF**](https://yusong17.github.io/mypaper/zc-mine.pdf).
 
-​	61. M Gu, C Guo, **Yu Song\***. ﻿[Multimodal bioelectronics: a pathway to digital health management](https://www.sciencedirect.com/science/article/pii/S2590238525000918), ***Matter***, 2025, 8, 102048. [**Download PDF**](https://yusong17.github.io/mypaper/mx-matter.pdf).
+​	63. Y Liu, B Zhou, X Hu, Y Long, S Li, C Sun, A Chen, X Liang, **Yu Song**, D Lei, T Xu, L Guo, C Lau\*, W Luo, C Lim. [Wearable epidermal sensors with surface-enhanced Raman spectroscopy for personalized health](https://www.cell.com/device/abstract/S2666-9986(25)00213-3), ***Device***, 2025, *3*, 100939. [**Download PDF**](https://yusong17.github.io/mypaper/yc-device.pdf).
 
-​	60. Y Zhang, H Chen, **Yu Song\***. [Wearable healthcare monitoring and therapeutic bioelectronics](https://www.sciencedirect.com/science/article/pii/S2950235725000046), ***Wearable Electronics***, 2025, 2, 18-22. [**Download PDF**](https://yusong17.github.io/mypaper/yz-we.pdf).
+​	62. M Gu, C Guo, **Yu Song\***. ﻿[Multimodal bioelectronics: a pathway to digital health management](https://www.sciencedirect.com/science/article/pii/S2590238525000918), ***Matter***, 2025, 8, 102048. [**Download PDF**](https://yusong17.github.io/mypaper/mx-matter.pdf).
+
+​	61. Y Zhang, H Chen, **Yu Song\***. [Wearable healthcare monitoring and therapeutic bioelectronics](https://www.sciencedirect.com/science/article/pii/S2950235725000046), ***Wearable Electronics***, 2025, 2, 18-22. [**Download PDF**](https://yusong17.github.io/mypaper/yz-we.pdf).
 
 **Before Joining CityU**
 
-​	59. Y Choi, P Jin, S Lee, **Yu Song**, R Tay, G Kim, J Yoo, H Han, J Yeom, J Cho, D Kim, W Gao\*. [All-printed chip-less wearable neuromorphic system for multimodal physicochemical health monitoring](https://www.nature.com/articles/s41467-025-60854-7), ***Nature Communications***, 2025, 16, 5689. [**Download PDF**](https://yusong17.github.io/mypaper/ys-nc.pdf).
+​	60. Y Choi, P Jin, S Lee, **Yu Song**, R Tay, G Kim, J Yoo, H Han, J Yeom, J Cho, D Kim, W Gao\*. [All-printed chip-less wearable neuromorphic system for multimodal physicochemical health monitoring](https://www.nature.com/articles/s41467-025-60854-7), ***Nature Communications***, 2025, 16, 5689. [**Download PDF**](https://yusong17.github.io/mypaper/ys-nc.pdf).
+
+​	59. H Wu, **Yu Song**, H Yin, Y Zhu, A Zhang, Z Xie, C Wang, M Gao, W Gao, Q Pei\*. [Flexible and conformable carbon nanotube twin transistors for real-time glucose biosensing](https://pubs.acs.org/doi/10.1021/acsanm.5c01165), ***ACS Applied Nano Materials***, 2025, 8, 9924-9936. [**Download PDF**](https://yusong17.github.io/mypaper/whx-acsanm.pdf).
 
 *Highlighted in "[Every breath you take, this mask will be watching your health](https://www.science.org/content/article/every-breath-you-take-mask-will-be-watching-your-health)", **Science**, Aug 2024.*
 
