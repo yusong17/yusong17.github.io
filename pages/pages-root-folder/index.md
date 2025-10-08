@@ -51,7 +51,7 @@ homepage: true
 <div class="row">
   <div class="large-6 columns">
     <b><h3>Recent publications</h3></b><br>
-    Z Hua, C Dai, Y Yang, <b>Yu Song</b>*. Wearable bioelectronics for cancer theranostics, <i><b>Microsystems & Nanoengineering</b></i>, 2025, <i>in press</i>.
+    Z Hua, C Dai, Y Yang, <b>Yu Song</b>*. <a href="https://www.nature.com/articles/s41378-025-01048-5">Wearable bioelectronics for cancer theranostics</a>, <i><b>Microsystems & Nanoengineering</b></i>, 2025, 11, 180.
 <br><br>
     M Gu, C Guo, <b>Yu Song</b>*. <a href="https://www.sciencedirect.com/science/article/pii/S2590238525000918">Multimodal bioelectronics: a pathway to digital health management</a>, <i><b>Matter</b></i>, 2025, 8, 102048.
 <br><br>
@@ -65,9 +65,13 @@ homepage: true
   <div class="large-6 columns">
     <b><h3>Group news</h3></b><br>
     <b>2025</b><br>
+   	Oct, our review paper on wearable bioelectronics for cancer theranostics was published in <b><i>Microsystems & Nanoengineering</i></b>. Congrats to Zhichen! <u><a href="https://www.nature.com/articles/s41378-025-01048-5">Link</a></u><br><h8> </h8><br>
+    <center> <img src="images/logo/mine.png" width="200"> </center><br>
+    Sep, Dr. Song was recognized as one of the <b>World's Top 2% Scientists</b> by Stanford University and Elsevier Scopus. See <u><a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8">full list</a></u><br><h8> </h8><br>
+    <center> <img src="images/logo/2025scientist.png" width="200"> </center><br>
     Jul, Dr. Song was selected for <b>Big-on-Small award</b> on MARSS2025 conference. <u><a href="https://marss-conference.org/awards/winner_of_big-on-small_award/">Link</a></u><br><h8> </h8><br>
     <center> <img src="images/logo/MARSS.png" width="160"> </center><br>
-     May, our review paper on multimodal bioelectronics for health management was published in <b><i>Matter</i></b>. Congrats to Mengxi! <u><a href="https://www.sciencedirect.com/science/article/pii/S2590238525000918">Link</a></u><br><h8> </h8><br>
+   	May, our review paper on multimodal bioelectronics for health management was published in <b><i>Matter</i></b>. Congrats to Mengxi! <u><a href="https://www.sciencedirect.com/science/article/pii/S2590238525000918">Link</a></u><br><h8> </h8><br>
     <center> <img src="images/logo/matter.png" width="160"> </center><br> 
     <b>2024</b><br>
     Aug, Dr. Song‘s co-author paper on smart mask for exhaled breath condensate analysis was published in <b><i>Science</i></b>. <u><a href="https://www.science.org/doi/10.1126/science.adn6471">Link</a></u><br><h8> </h8><br>
@@ -83,3 +87,4 @@ homepage: true
     <center> <img src="images/logo/sa.png" width="200"> </center><br>
   </div>
 </div>
+

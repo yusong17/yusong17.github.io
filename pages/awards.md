@@ -22,6 +22,25 @@ header:
 
 
 
+
+<div style="flex: 16; border: 1px solid white; margin: 1px; padding: 1px;">
+<p><b>World's Top 2% Scientist</b>, Stanford University & Elsevier Scopus-<a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8">full list</a></p></div>
+
+
+
+
+
+
+
+</div>
+
+<div style="display: flex;">
+<div style="flex: 3; border: 1px solid white; margin: 1px; padding: 1px;">
+ <p><b>▪   </b>2025</p></div>
+
+
+
+
 <div style="flex: 16; border: 1px solid white; margin: 1px; padding: 1px;">
   <p><b>Big-on-Small Award</b>, <a href="https://marss-conference.org/awards/winner_of_big-on-small_award/"><i>MARSS 2025 Conference</i></a></p></div>
 
