@@ -127,6 +127,16 @@ header:
   </div>
   <div class="large-3 columns">
      <center>
+       {% include photo-kaiwen.html %}
+        <b>Kaiwen WANG</b>
+       <br>
+       Ph.D. Student
+       <br>
+       M.S. University College London
+			</center>
+  </div>
+  <div class="large-3 columns">
+     <center>
        {% include photo-zhongzeng.html %}
         <b>Zhongzeng ZHOU</b>
        <br>
@@ -135,12 +145,8 @@ header:
        Shenzhen University
 			</center>
   </div>
-  <div class="large-3 columns">
-          <center>
-        <b></b><br>
-			</center>
-  </div>
 </div>
+
 
 
 
