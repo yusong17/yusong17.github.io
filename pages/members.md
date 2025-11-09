@@ -80,7 +80,7 @@ header:
        {% include photo-wanyu.html %}
         <b>Wanyu ZHANG</b>
        <br>
-       Ph.D. Student (HKPFS)
+       Ph.D. Student (<b>HKPFS</b>)
        <br>
        M.S. Shandong University
 			</center>
@@ -184,7 +184,7 @@ header:
 
 #### Almuni
 
-<br><br>**Ding LI** - Visiting Student - Tsinghua University Ph.D. Student
+<br>**Ding LI** - Visiting Student - Tsinghua University Ph.D. Student
 
 **Jiaxuan GUAN** - MSc Student
 
