@@ -23,8 +23,10 @@ header:
 
 
 
+
 <div style="flex: 16; border: 1px solid white; margin: 1px; padding: 1px;">
-<p><b>World's Top 2% Scientist</b>, Stanford University & Elsevier Scopus-<a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8">full list</a></p></div>
+<p><b>Highly Cited Researcher</b>, Clarivate Web of Science-<a href="https://clarivate.com/highly-cited-researchers/#list">full list</a></p></div>
+
 
 
 
@@ -42,8 +44,7 @@ header:
 
 
 <div style="flex: 16; border: 1px solid white; margin: 1px; padding: 1px;">
-<p><b>Highly Cited Researcher</b>, Clarivate Web of Science-<a href="https://clarivate.com/highly-cited-researchers/#list">full list</a></p></div>
-
+<p><b>World's Top 2% Scientist</b>, Stanford University & Elsevier Scopus-<a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8">full list</a></p></div>
 
 
 
