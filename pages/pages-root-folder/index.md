@@ -65,6 +65,8 @@ homepage: true
   <div class="large-6 columns">
     <b><h3>Group news</h3></b><br>
     <b>2025</b><br>
+    Nov, Dr. Song was named a <b>Highly Cited Researcher</b> (2025) by <b>Clarivate Web of Science</b>. See <u><a href="https://clarivate.com/highly-cited-researchers/">full list</a></u><br><h8> </h8><br>
+    <center> <img src="images/logo/clar.jpg" width="200"> </center><br>
    	Oct, our review paper on wearable bioelectronics for cancer theranostics was published in <b><i>Microsystems & Nanoengineering</i></b>. Congrats to Zhichen! <u><a href="https://www.nature.com/articles/s41378-025-01048-5">Link</a></u><br><h8> </h8><br>
     <center> <img src="images/logo/mine.png" width="200"> </center><br>
     Sep, Dr. Song was recognized as one of the <b>World's Top 2% Scientists</b> by Stanford University and Elsevier Scopus. See <u><a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8">full list</a></u><br><h8> </h8><br>
@@ -87,4 +89,3 @@ homepage: true
     <center> <img src="images/logo/sa.png" width="200"> </center><br>
   </div>
 </div>
-

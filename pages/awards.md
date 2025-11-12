@@ -31,6 +31,24 @@ header:
 
 
 
+</div>
+
+<div style="display: flex;">
+<div style="flex: 3; border: 1px solid white; margin: 1px; padding: 1px;">
+ <p><b>▪   </b>2025</p></div>
+
+
+
+
+
+<div style="flex: 16; border: 1px solid white; margin: 1px; padding: 1px;">
+<p><b>Highly Cited Researcher</b>, Clarivate Web of Science-<a href="https://clarivate.com/highly-cited-researchers/#list">full list</a></p></div>
+
+
+
+
+
+
 
 </div>
 
