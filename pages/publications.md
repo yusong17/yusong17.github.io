@@ -11,7 +11,7 @@ header:
 
 <br>
 
-​	65. T Hu, E Ko, **Yu Song**, C Xu\*. ﻿[Microneedle-integrated wearable devices for healthcare monitoring](https://pubs.rsc.org/zh-tw/content/articlelanding/2026/lc/d5lc00993f), ***Microsystems & Nanoengineering***, 2026, *in press*. [**Download PDF**](https://yusong17.github.io/mypaper/htl-loc.pdf).
+​	65. T Hu, E Ko, **Yu Song**, C Xu\*. ﻿[Microneedle-integrated wearable devices for healthcare monitoring](https://pubs.rsc.org/zh-tw/content/articlelanding/2026/lc/d5lc00993f), ***Lab on a Chip***, 2026, *in press*. [**Download PDF**](https://yusong17.github.io/mypaper/htl-loc.pdf).
 
 ​	64. Z Hua, C Dai, Y Yang, **Yu Song\***. ﻿[Wearable bioelectronics for cancer theranostics](https://www.nature.com/articles/s41378-025-01048-5), ***Microsystems & Nanoengineering***, 2025, *11*, 180. [**Download PDF**](https://yusong17.github.io/mypaper/zc-mine.pdf).
 
