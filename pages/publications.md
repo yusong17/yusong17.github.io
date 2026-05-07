@@ -11,7 +11,13 @@ header:
 
 <br>
 
-​	65. T Hu, E Ko, **Yu Song**, C Xu\*. ﻿[Microneedle-integrated wearable devices for healthcare monitoring](https://pubs.rsc.org/zh-tw/content/articlelanding/2026/lc/d5lc00993f), ***Lab on a Chip***, 2026, *in press*. [**Download PDF**](https://yusong17.github.io/mypaper/htl-loc.pdf).
+​	68. J Li, K Fan, X Ma, C Wang, J Min, Y Chen, **Yu Song**, Y Xu, W Gao\*. Strain-insensitive wet-tissue-adhesive biphasic bioelectronics for physicochemical monitoring and adaptive therapy, ***Nature Materials***, 2026, *in press*.
+
+​	67. E Ko, T Hu, Y Zhang, X Wang, **Yu Song\***, C Xu\*. [Porous microneedle-based electrochemical aptamer biosensor for collection and quantitative analysis of dry eye disease biomarkers](https://pubs.rsc.org/en/content/articlehtml/2026/lc/d6lc00230g), ***Lab on a Chip***, 2026, *in press*.
+
+​	66. J Duan, Y Lei, Z Liu, **Yu Song**, Y Wu\*. [TENG-based wearable sensors for continuous self-powered health monitoring](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adsr.202500198), ***Advanced Sensor Research***, 2026, *5*, e00198. [**Download PDF**](https://yusong17.github.io/mypaper/wyx-asr.pdf).
+
+​	65. T Hu, E Ko, **Yu Song**, C Xu\*. ﻿[Microneedle-integrated wearable devices for healthcare monitoring](https://pubs.rsc.org/zh-tw/content/articlelanding/2026/lc/d5lc00993f), ***Lab on a Chip***, 2026, *26*, 1510-1527. [**Download PDF**](https://yusong17.github.io/mypaper/htl-loc.pdf).
 
 ​	64. Z Hua, C Dai, Y Yang, **Yu Song\***. ﻿[Wearable bioelectronics for cancer theranostics](https://www.nature.com/articles/s41378-025-01048-5), ***Microsystems & Nanoengineering***, 2025, *11*, 180. [**Download PDF**](https://yusong17.github.io/mypaper/zc-mine.pdf).
 
