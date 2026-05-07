@@ -135,17 +135,8 @@ header:
        M.S. University College London
 			</center>
   </div>
-  <div class="large-3 columns">
-     <center>
-       {% include photo-zhongzeng.html %}
-        <b>Zhongzeng ZHOU</b>
-       <br>
-       Visiting Student
-       <br>
-       Shenzhen University
-			</center>
-  </div>
 </div>
+
 
 
 
@@ -184,8 +175,10 @@ header:
 
 #### Almuni
 
-<br>**Ding LI** - Visiting Student - Tsinghua University Ph.D. Student
+<br>**Ding LI** - Visiting Student - Tsinghua University
 
 **Jiaxuan GUAN** - MSc Student
 
 **Vincenza MAO** - Summer Exchange - University of Toronto
+
+**Zhongzeng Zhou** - Visiting Student - Shenzhen University
