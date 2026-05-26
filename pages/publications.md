@@ -89,7 +89,7 @@ header:
 
 ​	45. J Wan, H Guo, H Wang, L Miao, **Yu Song**, C Xu, Z Xiang, M Han\*, H Zhang\*. [Magnetic, conductive textile for multipurpose protective clothing and hybrid energy harvesting](https://pubs.aip.org/aip/apl/article/118/14/143901/40152/Magnetic-conductive-textile-for-multipurpose), ***Applied Physics Letters***, 2021, *118*, 143901. [**Download PDF**](https://yusong17.github.io/mypaper/wj-apl.pdf).
 
-​	44. **Yu Song**, D Mukasa, H Zhang, W Gao\*. [Self-powered wearable biosensors](https://pubs.acs.org/doi/full/10.1021/accountsmr.1c00002), ***Accounts of Materials Research***, 2021, 2, 184-197. [**Download PDF**](https://yusong17.github.io/mypaper/amr.pdf).
+​	44. **Yu Song**, D Mukasa, H Zhang, W Gao\*. [Self-powered wearable biosensors](https://pubs.acs.org/doi/full/10.1021/accountsmr.1c00002), ***Accounts of Materials Research***, 2021, *2*, 184-197. [**Download PDF**](https://yusong17.github.io/mypaper/amr.pdf).
 
 *Selected as [ACS Editors' Choice](https://pubs.acs.org/editorschoice/?widgetSort=EditorsChoiceDate&widgetPage=0) (one per day for the entire ACS portfolio)*
 
