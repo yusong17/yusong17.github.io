@@ -48,8 +48,11 @@ header:
 			</center>
   </div>
   <div class="large-3 columns">
-          <center>
-        <b></b><br>
+      <center>
+       {% include photo-weikang.html %}
+        <b>Weikang LIN</b>
+       <br>
+       Ph.D. CityU Hong Kong
 			</center>
   </div>
   <div class="large-3 columns">
