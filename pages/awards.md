@@ -17,7 +17,29 @@ header:
 
 <div style="display: flex;">
 <div style="flex: 3; border: 1px solid white; margin: 1px; padding: 1px;">
+ <p><b>▪   </b>2026</p></div>
+
+
+
+
+
+
+
+<div style="flex: 16; border: 1px solid white; margin: 1px; padding: 1px;">
+  <p><b>Young Investigator Award</b>, <a href="https://www.mdpi.com/journal/biosensors/awards/3487"><i>Biosensors</i></a></p></div>
+
+
+
+
+
+
+
+</div>
+
+<div style="display: flex;">
+<div style="flex: 3; border: 1px solid white; margin: 1px; padding: 1px;">
  <p><b>▪   </b>2025</p></div>
+
 
 
 
