@@ -139,8 +139,13 @@ header:
 			</center>
   </div>
   <div class="large-3 columns">
-          <center>
-        <b></b><br>
+       <center>
+       {% include photo-yihang.html %}
+        <b>Yihang TONG</b>
+       <br>
+       Visiting Student
+       <br>
+       Beihang University
 			</center> 
   </div>
 </div>
