@@ -11,7 +11,9 @@ header:
 
 <br>
 
-​	69. J Lasalde-Ramírez, C Won, S Ji, S Shin, R McDonald, K Karish, G Kim, H Han, D Mukasa, B Arianpour, **Yu Song**, J Yang, T Hsiai, Z Li, T Lee J Sempionatto, W Gao\*. Noninvasive continuous lipid profiling via cofactor-refreshing cascading enzymatic reactions and causal machine learning, ***Nature Sensors***, 2026, *in press*.
+​	70. J Lasalde-Ramírez, C Won, S Ji, S Shin, R McDonald, K Karish, G Kim, H Han, D Mukasa, B Arianpour, **Yu Song**, J Yang, T Hsiai, Z Li, T Lee J Sempionatto, W Gao\*. Noninvasive continuous lipid profiling via cofactor-refreshing cascading enzymatic reactions and causal machine learning, ***Nature Sensors***, 2026, *in press*.
+
+​	69. L Tian, **Yu Song\***. [Optimal conductivity matching for cardiac electrical patches](https://www.oaepublish.com/articles/ss.2026.116), ***Soft Science***, 2026, *6*, 64. [**Download PDF**](https://yusong17.github.io/mypaper/lf-ss.pdf).
 
 ​	68. J Li, K Fan, X Ma, C Wang, J Min, Y Chen, **Yu Song**, Y Xu, W Gao\*. [Strain-insensitive wet-tissue-adhesive biphasic bioelectronics for physicochemical monitoring and adaptive therapy](https://www.nature.com/articles/s41563-026-02624-4), ***Nature Materials***, 2026, *in press*. [**Download PDF**](https://yusong17.github.io/mypaper/jh-nm.pdf).
 
