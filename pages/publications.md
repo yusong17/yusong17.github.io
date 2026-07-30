@@ -11,11 +11,11 @@ header:
 
 <br>
 
-​	70. J Lasalde-Ramírez, C Won, S Ji, S Shin, R McDonald, K Karish, G Kim, H Han, D Mukasa, B Arianpour, **Yu Song**, J Yang, T Hsiai, Z Li, T Lee J Sempionatto, W Gao\*. Noninvasive continuous lipid profiling via cofactor-refreshing cascading enzymatic reactions and causal machine learning, ***Nature Sensors***, 2026, *in press*.
+​	70. J Lasalde-Ramírez, C Won, S Ji, S Shin, R McDonald, K Karish, G Kim, H Han, D Mukasa, B Arianpour, **Yu Song**, J Yang, T Hsiai, Z Li, T Lee J Sempionatto, W Gao\*. [Noninvasive continuous lipid profiling via cofactor-refreshing cascading enzymatic reactions and causal machine learning](https://www.nature.com/articles/s44460-026-00117-0), ***Nature Sensors***, 2026, 10.1038/s41565-026-02247-5. [**Download PDF**](https://yusong17.github.io/mypaper/jose-ns.pdf).
 
 ​	69. L Tian, **Yu Song\***. [Optimal conductivity matching for cardiac electrical patches](https://www.oaepublish.com/articles/ss.2026.116), ***Soft Science***, 2026, *6*, 64. [**Download PDF**](https://yusong17.github.io/mypaper/lf-ss.pdf).
 
-​	68. J Li, K Fan, X Ma, C Wang, J Min, Y Chen, **Yu Song**, Y Xu, W Gao\*. [Strain-insensitive wet-tissue-adhesive biphasic bioelectronics for physicochemical monitoring and adaptive therapy](https://www.nature.com/articles/s41563-026-02624-4), ***Nature Materials***, 2026, *in press*. [**Download PDF**](https://yusong17.github.io/mypaper/jh-nm.pdf).
+​	68. J Li, K Fan, X Ma, C Wang, J Min, Y Chen, **Yu Song**, Y Xu, W Gao\*. [Strain-insensitive wet-tissue-adhesive biphasic bioelectronics for physicochemical monitoring and adaptive therapy](https://www.nature.com/articles/s41563-026-02624-4), ***Nature Materials***, 2026, 10.1038/s41563-026-02624-4. [**Download PDF**](https://yusong17.github.io/mypaper/jh-nm.pdf).
 
 ​	67. E Ko, T Hu, Y Zhang, X Wang, **Yu Song\***, C Xu\*. [Porous microneedle-based electrochemical aptamer biosensor for collection and quantitative analysis of dry eye disease biomarkers](https://pubs.rsc.org/en/content/articlehtml/2026/lc/d6lc00230g), ***Lab on a Chip***, 2026, *26*, 3002-3012. [**Download PDF**](https://yusong17.github.io/mypaper/eira-loc.pdf).
 
