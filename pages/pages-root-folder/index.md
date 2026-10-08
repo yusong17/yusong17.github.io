@@ -64,6 +64,9 @@ homepage: true
   </div>   
   <div class="large-6 columns">
     <b><h3>Group news</h3></b><br>
+    <b>2026</b><br>
+    Oct, Dr. Song was recognized as one of the <b>World's Top 2% Scientists</b> by Stanford University and Elsevier Scopus. See <u><a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/9">full list</a></u><br><h8> </h8><br>
+    <center> <img src="images/logo/2026scientist.png" width="200"> </center><br>
     <b>2025</b><br>
     Nov, Dr. Song was named a <b>Highly Cited Researcher</b> (2025) by <b>Clarivate Web of Science</b>. See <u><a href="https://clarivate.com/highly-cited-researchers/">full list</a></u><br><h8> </h8><br>
     <center> <img src="images/logo/clar.jpg" width="200"> </center><br>
