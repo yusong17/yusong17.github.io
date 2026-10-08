@@ -140,6 +140,26 @@ header:
   </div>
   <div class="large-3 columns">
        <center>
+       {% include photo-junhan.html %}
+        <b>Junhan WANG</b>
+       <br>
+       Ph.D. Student
+       <br>
+       M.S. Beihang University
+			</center> 
+  </div>
+  <div class="large-3 columns">
+     <center>
+       {% include photo-luyun.html %}
+        <b>Lunyun SHI</b>
+       <br>
+       Joint Ph.D. Student
+       <br>
+       USTC
+			</center>
+  </div>
+  <div class="large-3 columns">
+       <center>
        {% include photo-yihang.html %}
         <b>Yihang TONG</b>
        <br>
