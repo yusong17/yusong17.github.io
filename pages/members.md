@@ -151,7 +151,7 @@ header:
   <div class="large-3 columns">
      <center>
        {% include photo-luyun.html %}
-        <b>Lunyun SHI</b>
+        <b>Luyun SHI</b>
        <br>
        Joint Ph.D. Student
        <br>
@@ -170,12 +170,12 @@ header:
   </div>
   <div class="large-3 columns">
        <center>
-       
+
 			</center> 
   </div>
   <div class="large-3 columns">
        <center>
-       
+
 			</center> 
   </div>
 </div>
