@@ -11,11 +11,21 @@ header:
 
 <br>
 
-​	70. J Lasalde-Ramírez, C Won, S Ji, S Shin, R McDonald, K Karish, G Kim, H Han, D Mukasa, B Arianpour, **Yu Song**, J Yang, T Hsiai, Z Li, T Lee J Sempionatto, W Gao\*. [Noninvasive continuous lipid profiling via cofactor-refreshing cascading enzymatic reactions and causal machine learning](https://www.nature.com/articles/s44460-026-00117-0), ***Nature Sensors***, 2026, 10.1038/s41565-026-02247-5. [**Download PDF**](https://yusong17.github.io/mypaper/jose-ns.pdf).
+​	75. Y Long, X Pan, Y Chen, N Li, W Wang, Y Wang, W Zhang, T Liu, Q Peng, K Yang, G Jin, C Liu, J Lv, F Xu, K Qu\*, Y Fang\*, **Yu Song\***, T Lin\*. [Wearable sweat biosystem with dual diffusion-limiting interface for dynamic hyperlactatemia management in critical care](https://doi.org/10.1021/acsnano.6c12805), ***ACS Nano***, 2026, *20*, 28602-28616. [**Download PDF**](https://yusong17.github.io/mypaper/fys-acs.pdf).
+
+​	74. N Wang, Y Yan, M Ding, Y Zhang, M Gu, J Zhou, W Guo, H Pei, B Li, Q Quan, **Yu Song\***, J Ho\*. [Bias-free tactile synaptic ionogel with viscoelastic memory for biomechanical monitoring](https://doi.org/10.1002/adfm.78811), ***Advanced Functional Materials***, 2026, *36*, e78811. [**Download PDF**](https://yusong17.github.io/mypaper/wn-afm.pdf).
+
+​	73. X Dong, S Yao, X Cui, Z Yang, J Cheng, J Zhu, **Yu Song**, I Park, Z Li\*, Z Li\*. [Kinetic-locked fiber networks enable anti-fouling, mechanically robust zwitterionic hydrogels](https://doi.org/10.1002/adma.74810), ***Advanced Materials***, 2026, *38*, e74810. [**Download PDF**](https://yusong17.github.io/mypaper/lz-am.pdf).
+
+​	72. M Li, X Deng, P Yao, L Jia, X Lv, **Yu Song**, Y Wu\*, Z Li\*, Z Liu\*. [Flexible wearable sensors for pulse wave monitoring: Principles, designs, and applications in disease assessment](https://doi.org/10.1016/j.nanoen.2026.112383), ***Nano Energy***, 2026, *159*, 112383. [**Download PDF**](https://yusong17.github.io/mypaper/lz-ne.pdf).
+
+​	71. L Zhang, C Ye, Y Yu, **Yu Song**, Y Xu, W Heng, S Tang, M Wang\*. [ElHyX enables multimodal implantable bioelectronics for autonomous disease management](https://doi.org/10.1016/j.scib.2026.08.077), ***Science Bulletin***, 2026, *71*, 5109-5111. [**Download PDF**](https://yusong17.github.io/mypaper/mq-sb.pdf).
+
+​	70. J Lasalde-Ramírez, C Won, S Ji, S Shin, R McDonald, K Karish, G Kim, H Han, D Mukasa, B Arianpour, **Yu Song**, J Yang, T Hsiai, Z Li, T Lee J Sempionatto, W Gao\*. [Noninvasive continuous lipid profiling via cofactor-refreshing cascading enzymatic reactions and causal machine learning](https://www.nature.com/articles/s44460-026-00117-0), ***Nature Sensors***, 2026, *1*, 811-823. [**Download PDF**](https://yusong17.github.io/mypaper/jose-ns.pdf).
 
 ​	69. L Tian, **Yu Song\***. [Optimal conductivity matching for cardiac electrical patches](https://www.oaepublish.com/articles/ss.2026.116), ***Soft Science***, 2026, *6*, 64. [**Download PDF**](https://yusong17.github.io/mypaper/lf-ss.pdf).
 
-​	68. J Li, K Fan, X Ma, C Wang, J Min, Y Chen, **Yu Song**, Y Xu, W Gao\*. [Strain-insensitive wet-tissue-adhesive biphasic bioelectronics for physicochemical monitoring and adaptive therapy](https://www.nature.com/articles/s41563-026-02624-4), ***Nature Materials***, 2026, 10.1038/s41563-026-02624-4. [**Download PDF**](https://yusong17.github.io/mypaper/jh-nm.pdf).
+​	68. J Li, K Fan, X Ma, C Wang, J Min, Y Chen, **Yu Song**, Y Xu, W Gao\*. [Strain-insensitive wet-tissue-adhesive biphasic bioelectronics for physicochemical monitoring and adaptive therapy](https://www.nature.com/articles/s41563-026-02624-4), ***Nature Materials***, 2026, *25*, 1864-1872. [**Download PDF**](https://yusong17.github.io/mypaper/jh-nm.pdf).
 
 ​	67. E Ko, T Hu, Y Zhang, X Wang, **Yu Song\***, C Xu\*. [Porous microneedle-based electrochemical aptamer biosensor for collection and quantitative analysis of dry eye disease biomarkers](https://pubs.rsc.org/en/content/articlehtml/2026/lc/d6lc00230g), ***Lab on a Chip***, 2026, *26*, 3002-3012. [**Download PDF**](https://yusong17.github.io/mypaper/eira-loc.pdf).
 
